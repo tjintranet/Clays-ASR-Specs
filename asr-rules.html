@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASR Processing Rules</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.1/font/bootstrap-icons.min.css" rel="stylesheet">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+
+    <style>
+        .result-box {
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            padding: 1rem;
+            margin-top: 1rem;
+        }
+        
+        .hover-btn:hover {
+            transform: translateY(-1px);
+            transition: transform 0.2s;
+        }
+        
+        .rules-section {
+            background: #f8f9fa;
+            border-radius: 8px;
+            overflow: hidden;
+            margin-bottom: 2rem;
+            border: 1px solid #dee2e6;
+        }
+        
+        .rules-section-title {
+            background: #6c757d;
+            color: white;
+            padding: 0.75rem 1rem;
+            margin: 0;
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+        
+        .rules-content {
+            padding: 1.5rem;
+        }
+        
+        .paper-table {
+            font-size: 0.9rem;
+            margin-bottom: 0;
+        }
+        
+        .paper-table th {
+            background: #e9ecef;
+            font-weight: 600;
+            color: #495057;
+            padding: 0.75rem 0.5rem;
+            text-align: center;
+            border: 1px solid #dee2e6;
+            white-space: nowrap;
+        }
+        
+        .paper-table td {
+            padding: 0.6rem 0.5rem;
+            text-align: center;
+            border: 1px solid #dee2e6;
+            vertical-align: middle;
+        }
+        
+        .customer-table td:first-child {
+            font-weight: 600;
+            text-align: left;
+            background: #f8f9fa;
+            width: 25%;
+        }
+        
+        .customer-table td:last-child {
+            text-align: left;
+        }
+        
+        .general-rules ul {
+            margin-bottom: 0;
+            padding-left: 1.5rem;
+        }
+        
+        .general-rules li {
+            margin-bottom: 0.5rem;
+        }
+        
+        .fade-in {
+            animation: fadeIn 0.5s ease-in;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .section-divider {
+            border-top: 3px solid #6c757d;
+            margin: 2rem 0;
+        }
+        
+        .highlight-row {
+            background-color: #fff3cd;
+        }
+        
+        .replacement-paper {
+            background-color: #d1ecf1;
+            font-style: italic;
+        }
+        
+        .back-button {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 1000;
+        }
+        
+        @media (max-width: 768px) {
+            .paper-table {
+                font-size: 0.8rem;
+            }
+            
+            .paper-table th,
+            .paper-table td {
+                padding: 0.4rem 0.3rem;
+            }
+        }
+    </style>
+</head>
+<body class="bg-light">
+    <!-- Back Button -->
+    <a href="index.html" class="btn btn-secondary back-button hover-btn">
+        <i class="bi bi-arrow-left"></i> Back to Search
+    </a>
+
+    <div class="container py-4">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="card shadow fade-in">
+                    <div class="card-header bg-primary text-white text-center">
+                        <h1 class="mb-0">
+                            <i class="bi bi-file-text me-3"></i>
+                            ASR: Processing Rules
+                        </h1>
+                        <p class="mb-0 mt-2 opacity-75">Standard rules and specifications for ASR processing</p>
+                    </div>
+                    <div class="card-body p-0">
+                        
+                        <!-- General Rules Section -->
+                        <div class="rules-section">
+                            <h2 class="rules-section-title">
+                                <i class="bi bi-info-circle me-2"></i>General Rules
+                            </h2>
+                            <div class="rules-content general-rules">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <h5 class="text-primary mb-3">Paperback Only</h5>
+                                        <ul>
+                                            <li>All trim sizes allowed</li>
+                                            <li>No separate illustration sections</li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h5 class="text-primary mb-3">Restrictions</h5>
+                                        <ul>
+                                            <li>No foiling / embossing / spot UV</li>
+                                            <li>No 5th colour</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- ASR Papers Section -->
+                        <div class="rules-section">
+                            <h2 class="rules-section-title">
+                                <i class="bi bi-file-earmark-text me-2"></i>Current ASR Papers
+                            </h2>
+                            <div class="rules-content">
+                                <div class="table-responsive">
+                                    <table class="table table-bordered paper-table">
+                                        <thead>
+                                            <tr>
+                                                <th rowspan="2">Description</th>
+                                                <th colspan="2">Current Specs</th>
+                                                <th rowspan="2">TJ Replacement<br>Paper</th>
+                                                <th colspan="2">Replacement Specs</th>
+                                            </tr>
+                                            <tr>
+                                                <th>Gsm</th>
+                                                <th>Mic</th>
+                                                <th>Gsm</th>
+                                                <th>Mic</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>Amber Graphic</td>
+                                                <td>80</td>
+                                                <td>98</td>
+                                                <td class="replacement-paper">Navigator</td>
+                                                <td class="replacement-paper">80</td>
+                                                <td class="replacement-paper">102</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Holmen Cream</td>
+                                                <td>65</td>
+                                                <td>139</td>
+                                                <td>-</td>
+                                                <td>-</td>
+                                                <td>-</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Holmen Book</td>
+                                                <td>52</td>
+                                                <td>81</td>
+                                                <td>-</td>
+                                                <td>-</td>
+                                                <td>-</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Holmen Cream</td>
+                                                <td>55</td>
+                                                <td>107</td>
+                                                <td class="replacement-paper">Holmen Book</td>
+                                                <td class="replacement-paper">55</td>
+                                                <td class="replacement-paper">107</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Holmen Bulky</td>
+                                                <td>52</td>
+                                                <td>115</td>
+                                                <td>-</td>
+                                                <td>-</td>
+                                                <td>-</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Holmen Cream</td>
+                                                <td>52</td>
+                                                <td>81</td>
+                                                <td>-</td>
+                                                <td>-</td>
+                                                <td>-</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Ensolux Cream</td>
+                                                <td>70</td>
+                                                <td>110</td>
+                                                <td class="replacement-paper">Hylyte Pocket Creamy</td>
+                                                <td class="replacement-paper">60</td>
+                                                <td class="replacement-paper">108</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Holmen Cream</td>
+                                                <td>60</td>
+                                                <td>116</td>
+                                                <td>-</td>
+                                                <td>-</td>
+                                                <td>-</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Amber Highway Super</td>
+                                                <td>80</td>
+                                                <td>98</td>
+                                                <td>-</td>
+                                                <td>-</td>
+                                                <td>-</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Holmen Book</td>
+                                                <td>55</td>
+                                                <td>106</td>
+                                                <td>-</td>
+                                                <td>-</td>
+                                                <td>-</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="mt-3">
+                                   <!-- <small class="text-muted">
+                                        <i class="bi bi-info-circle me-1"></i>
+                                        TJ replacement papers are highlighted in <span class="replacement-paper px-2 rounded">blue</span>
+                                    </small> -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Customer Rules Section -->
+                        <div class="rules-section">
+                            <h2 class="rules-section-title">
+                                <i class="bi bi-people me-2"></i>Customer Specific Rules
+                            </h2>
+                            <div class="rules-content">
+                                <p class="text-muted mb-3">Agreed standard finish rules by customer:</p>
+                                <div class="table-responsive">
+                                    <table class="table table-bordered customer-table">
+                                        <tbody>
+                                            <tr>
+                                                <td>Little, Brown</td>
+                                                <td>Unfinished</td>
+                                            </tr>
+                                            <tr>
+                                                <td>C&R</td>
+                                                <td>Unfinished</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Quercus</td>
+                                                <td>Unfinished</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Short Books</td>
+                                                <td>Unfinished</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Octopus</td>
+                                                <td>Unfinished</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Dialogue</td>
+                                                <td>Unfinished</td>
+                                            </tr>
+                                            <tr class="highlight-row">
+                                                <td>Hodder</td>
+                                                <td>If UV / matt varnish ordered change to matt lam</td>
+                                            </tr>
+                                            <tr class="highlight-row">
+                                                <td>Orion</td>
+                                                <td>If matt / gloss lam ordered change to unfinished</td>
+                                            </tr>
+                                            <tr>
+                                                <td>John Murray</td>
+                                                <td><em>Awaiting confirmation of changes</em></td>
+                                            </tr>
+                                            <tr>
+                                                <td>Headline</td>
+                                                <td><em>Awaiting confirmation of changes</em></td>
+                                            </tr>
+                                            <tr class="highlight-row">
+                                                <td>Hachette Childrens</td>
+                                                <td>No changes to be made</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Production Specifications Section -->
+                        <div class="rules-section">
+                            <h2 class="rules-section-title">
+                                <i class="bi bi-gear me-2"></i>Production Specifications
+                            </h2>
+                            <div class="rules-content">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <h5 class="text-primary mb-3">
+                                            <i class="bi bi-printer me-2"></i>Inside Printing
+                                        </h5>
+                                        <p class="mb-4">Inside printing is allowed.</p>
+                                        
+                                        <h5 class="text-primary mb-3">
+                                            <i class="bi bi-file-image me-2"></i>Cover Board
+                                        </h5>
+                                        <ul class="mb-0">
+                                            <li>220gsm Incada Silk standard stock</li>
+                                            <li>ASRs do not print on the uncoated side of the board</li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h5 class="text-primary mb-3">
+                                            <i class="bi bi-currency-pound me-2"></i>Cover Prices
+                                        </h5>
+                                        <ul class="mb-0">
+                                            <li><strong>UNPRICED*</strong> with the exception of Hachette Children's titles</li>
+                                            <li>Automation only set to accept priced ASRs for Hachette Children's</li>
+                                            <li>Historically one series of JM titles contain prices</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- FSC / EEA Section -->
+                        <div class="rules-section">
+                            <h2 class="rules-section-title">
+                                <i class="bi bi-tree me-2"></i>FSC / EEA Requirements
+                            </h2>
+                            <div class="rules-content">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <h5 class="text-success mb-3">
+                                            <i class="bi bi-plus-circle me-2"></i>New Data
+                                        </h5>
+                                        <p>To be supplied with EEA / FSC</p>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h5 class="text-warning mb-3">
+                                            <i class="bi bi-calendar-check me-2"></i>Data Held Rules
+                                        </h5>
+                                        <ul class="mb-0">
+                                            <li><strong>FSC:</strong> Updated for any title re-printing for the first time after <strong>21/5/24</strong></li>
+                                            <li><strong>EEA:</strong> Updated for any title re-printing for the first time after <strong>05/11/24</strong></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card-footer bg-light text-center">
+                        <small class="text-muted">
+                            <i class="bi bi-calendar me-1"></i>
+                            ASR Program Standard Rules - July 2025
+                        </small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

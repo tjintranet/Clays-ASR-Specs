@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clays ASR Book Specification Search</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.1/font/bootstrap-icons.min.css" rel="stylesheet">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+
+    <style>
+        .result-box {
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            padding: 1rem;
+            margin-top: 1rem;
+        }
+        
+        .hover-btn:hover {
+            transform: translateY(-1px);
+            transition: transform 0.2s;
+        }
+        
+        .search-input {
+            font-size: 1.2rem;
+            font-weight: 500;
+            text-align: center;
+        }
+        
+        .book-result {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            border-left: 4px solid #6c757d;
+            cursor: default;
+            transition: all 0.3s ease;
+            border: 1px solid #dee2e6;
+        }
+        
+        .book-result.border-success {
+            border-left-color: #198754;
+        }
+        
+        .book-result:hover {
+            background: #e9ecef;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        
+        .book-title {
+            font-weight: bold;
+            color: #495057;
+            margin-bottom: 0.5rem;
+            font-size: 1.2rem;
+        }
+        
+        .spec-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.4rem 0;
+            border-bottom: 1px solid #dee2e6;
+        }
+        
+        .spec-row:last-child {
+            border-bottom: none;
+        }
+        
+        .spec-label {
+            font-weight: 600;
+            color: #6c757d;
+            margin-bottom: 0;
+        }
+        
+        .spec-value {
+            color: #495057;
+            font-weight: 500;
+            text-align: right;
+        }
+        
+        .summary-card {
+            background: #cdcdcd;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-top: 1rem;
+        }
+        
+        .fade-in {
+            animation: fadeIn 0.5s ease-in;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .loading-spinner {
+            display: none;
+        }
+        
+        .no-results {
+            background: #f8f9fa;
+            border-left: 4px solid #dc3545;
+        }
+        
+        .section-header {
+            background: #e9ecef;
+            padding: 0.5rem 1rem;
+            margin: 1rem -1.5rem 1rem -1.5rem;
+            font-weight: bold;
+            color: #495057;
+            border-radius: 4px;
+        }
+        .card-header h3 {
+            margin: 0;
+            font-size: 2.0rem;
+            padding-top: 0.5rem;
+            padding-bottom: 0.5rem;
+        }
+    </style>
+</head>
+<body class="bg-light">
+    <div class="container py-4">
+        <div class="row justify-content-center">
+            <div class="col-md-10">
+                <div class="card shadow">
+                    <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
+                        <h3 class="mb-0">Clays ASR Book Specification Search</h3>
+                        <a href="asr-rules.html" class="btn btn-light btn-sm hover-btn">
+                            <i class="bi bi-list-check"></i> ASR Rules
+                        </a>
+                    </div>
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <label for="searchInput" class="form-label">ISBN or Master Order ID:</label>
+                            <input type="text" class="form-control search-input" id="searchInput" 
+                                   placeholder="Enter ISBN (e.g., 9780755305308) or Master ID (e.g., SA0736)" autocomplete="off">
+                            <div class="form-text">Enter an ISBN number or Master Order ID to search for book specifications</div>
+                        </div>
+                        
+                        <div class="mb-3">
+                            <button type="button" class="btn btn-primary hover-btn" onclick="searchBooks()" style="min-width: 200px;">
+                                <span class="search-text">
+                                    <i class="bi bi-search"></i> Search Books
+                                </span>
+                                <span class="loading-spinner">
+                                    <i class="bi bi-hourglass-split"></i> Searching...
+                                </span>
+                            </button>
+                        </div>
+
+                        <div class="d-flex mb-3 mt-4" id="actionButtons" style="display: none;">
+                            <button type="button" class="btn btn-secondary hover-btn px-4 me-3" onclick="clearSearch()">
+                                <span class="d-none d-md-inline">Clear Search</span>
+                                <span class="d-inline d-md-none">Clear</span>
+                            </button>
+                            <button type="button" class="btn btn-info hover-btn px-4" id="copyResultBtn" onclick="copyResultToClipboard()" disabled>
+                                <span class="d-none d-md-inline">Copy to Clipboard</span>
+                                <span class="d-inline d-md-none">Copy</span>
+                            </button>
+                        </div>
+                        
+                        <div id="results" class="result-section"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
