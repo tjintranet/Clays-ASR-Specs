@@ -95,6 +95,61 @@ const specData = {
     }
 };
 
+// Function to parse multi-region pricing - MOVED TO TOP
+function parsePricing(priceString) {
+    try {
+        if (!priceString || priceString === 'Unpriced') {
+            return { hasMultiplePrices: false, original: priceString || 'Unpriced' };
+        }
+
+        const prices = {};
+        let hasMultiplePrices = false;
+
+        // Common patterns for different regions
+        const patterns = [
+            { region: 'UK', regex: /U\.?K\.?\s*£?([£\d.,]+)/i },
+            { region: 'US', regex: /U\.?S\.?\s*\$?([£$\d.,]+)/i },
+            { region: 'Canada', regex: /Can\.?\s*\$?([£$\d.,]+)/i },
+            { region: 'Australia', regex: /Aus\.?\s*\$?([£$\d.,]+)/i },
+            { region: 'Europe', regex: /Eur\.?\s*€?([€\d.,]+)/i }
+        ];
+
+        // Try to match each pattern
+        patterns.forEach(pattern => {
+            try {
+                const match = priceString.match(pattern.regex);
+                if (match && match[1]) {
+                    let price = match[1].trim();
+                    
+                    // Add currency symbol if missing
+                    if (pattern.region === 'UK' && !price.includes('£')) {
+                        price = '£' + price;
+                    } else if ((pattern.region === 'US' || pattern.region === 'Canada' || pattern.region === 'Australia') && !price.includes('$')) {
+                        price = '$' + price;
+                    } else if (pattern.region === 'Europe' && !price.includes('€')) {
+                        price = '€' + price;
+                    }
+                    
+                    prices[pattern.region] = price;
+                    hasMultiplePrices = true;
+                }
+            } catch (patternError) {
+                console.warn('Error parsing pattern for region:', pattern.region, patternError);
+            }
+        });
+
+        return {
+            hasMultiplePrices,
+            prices,
+            original: priceString
+        };
+    } catch (error) {
+        console.error('Error in parsePricing function:', error);
+        // Return safe fallback
+        return { hasMultiplePrices: false, original: priceString || 'Unpriced' };
+    }
+}
+
 // Function to decode Cover Spec codes
 function decodeCoverSpec(code) {
     if (!code || code.length < 6) {
@@ -294,6 +349,7 @@ function displayResults(results) {
     
     results.forEach((book, index) => {
         try {
+            console.log('Processing book:', book.TITLE); // Debug log
             const coverSpecDecoding = decodeCoverSpec(book['Cover Spec']);
             
             html += `
@@ -320,10 +376,102 @@ function displayResults(results) {
                         <span class="spec-value">${book.Extent} pages</span>
                     </div>
                     <div class="spec-row">
-                        <span class="spec-label">Price:</span>
-                        <span class="spec-value">${book.Price}</span>
+                        <span class="spec-label">Bleeds:</span>
+                        <span class="spec-value">${book.Bleeds}</span>
                     </div>
-                    
+            `;
+            
+            // Parse pricing inline - no separate function needed
+            console.log('Starting price parsing...'); // Debug log
+            let pricingHTML = '';
+            const priceString = book.Price || 'Unpriced';
+            
+            console.log('Processing price for book:', book.TITLE, 'Price string:', priceString); // Debug log
+            
+            // Check if price contains multiple regions
+            const ukMatch = priceString.match(/U\.?K\.?\s*£?([£\d.,]+)/i);
+            const usMatch = priceString.match(/U\.?S\.?\s*\$?([£$\d.,]+)/i);
+            const canMatch = priceString.match(/Can\.?\s*\$?([£$\d.,]+)/i);
+            const ausMatch = priceString.match(/Aus\.?\s*\$?([£$\d.,]+)/i);
+            const eurMatch = priceString.match(/Eur\.?\s*€?([€\d.,]+)/i);
+            
+            console.log('Matches found - UK:', ukMatch, 'US:', usMatch, 'Can:', canMatch); // Debug log
+            
+            let hasMultiplePrices = false;
+            
+            if (ukMatch) {
+                let price = ukMatch[1].trim();
+                if (!price.includes('£')) price = '£' + price;
+                pricingHTML += `
+                    <div class="spec-row">
+                        <span class="spec-label">Price (UK):</span>
+                        <span class="spec-value">${price}</span>
+                    </div>
+                `;
+                hasMultiplePrices = true;
+            }
+            
+            if (usMatch) {
+                let price = usMatch[1].trim();
+                if (!price.includes('$')) price = '$' + price;
+                pricingHTML += `
+                    <div class="spec-row">
+                        <span class="spec-label">Price (US):</span>
+                        <span class="spec-value">${price}</span>
+                    </div>
+                `;
+                hasMultiplePrices = true;
+            }
+            
+            if (canMatch) {
+                let price = canMatch[1].trim();
+                if (!price.includes('$')) price = '$' + price;
+                pricingHTML += `
+                    <div class="spec-row">
+                        <span class="spec-label">Price (Canada):</span>
+                        <span class="spec-value">${price}</span>
+                    </div>
+                `;
+                hasMultiplePrices = true;
+            }
+            
+            if (ausMatch) {
+                let price = ausMatch[1].trim();
+                if (!price.includes('$')) price = '$' + price;
+                pricingHTML += `
+                    <div class="spec-row">
+                        <span class="spec-label">Price (Australia):</span>
+                        <span class="spec-value">${price}</span>
+                    </div>
+                `;
+                hasMultiplePrices = true;
+            }
+            
+            if (eurMatch) {
+                let price = eurMatch[1].trim();
+                if (!price.includes('€')) price = '€' + price;
+                pricingHTML += `
+                    <div class="spec-row">
+                        <span class="spec-label">Price (Europe):</span>
+                        <span class="spec-value">${price}</span>
+                    </div>
+                `;
+                hasMultiplePrices = true;
+            }
+            
+            // If no multiple prices found, show original
+            if (!hasMultiplePrices) {
+                pricingHTML = `
+                    <div class="spec-row">
+                        <span class="spec-label">Price:</span>
+                        <span class="spec-value">${priceString}</span>
+                    </div>
+                `;
+            }
+            
+            html += pricingHTML;
+            
+            html += `
                     <div class="section-header">Physical Specifications</div>
                     <div class="spec-row">
                         <span class="spec-label">Trim Height:</span>
