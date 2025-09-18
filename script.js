@@ -377,99 +377,52 @@ function displayResults(results) {
                     </div>
                     <div class="spec-row">
                         <span class="spec-label">Bleeds:</span>
-                        <span class="spec-value">${book.Bleeds}</span>
+                        <span class="spec-value">${book.Bleeds || 'Not specified'}</span>
                     </div>
             `;
             
-            // Parse pricing inline - no separate function needed
-            console.log('Starting price parsing...'); // Debug log
-            let pricingHTML = '';
-            const priceString = book.Price || 'Unpriced';
+            // Display separate price fields - no parsing needed now
+            let hasPricing = false;
             
-            console.log('Processing price for book:', book.TITLE, 'Price string:', priceString); // Debug log
-            
-            // Check if price contains multiple regions
-            const ukMatch = priceString.match(/U\.?K\.?\s*£?([£\d.,]+)/i);
-            const usMatch = priceString.match(/U\.?S\.?\s*\$?([£$\d.,]+)/i);
-            const canMatch = priceString.match(/Can\.?\s*\$?([£$\d.,]+)/i);
-            const ausMatch = priceString.match(/Aus\.?\s*\$?([£$\d.,]+)/i);
-            const eurMatch = priceString.match(/Eur\.?\s*€?([€\d.,]+)/i);
-            
-            console.log('Matches found - UK:', ukMatch, 'US:', usMatch, 'Can:', canMatch); // Debug log
-            
-            let hasMultiplePrices = false;
-            
-            if (ukMatch) {
-                let price = ukMatch[1].trim();
-                if (!price.includes('£')) price = '£' + price;
-                pricingHTML += `
+            if (book['Price UK'] && book['Price UK'].toString().trim()) {
+                html += `
                     <div class="spec-row">
                         <span class="spec-label">Price (UK):</span>
-                        <span class="spec-value">${price}</span>
+                        <span class="spec-value">${book['Price UK']}</span>
                     </div>
                 `;
-                hasMultiplePrices = true;
+                hasPricing = true;
             }
             
-            if (usMatch) {
-                let price = usMatch[1].trim();
-                if (!price.includes('$')) price = '$' + price;
-                pricingHTML += `
+            if (book['Price US'] && book['Price US'].toString().trim()) {
+                html += `
                     <div class="spec-row">
                         <span class="spec-label">Price (US):</span>
-                        <span class="spec-value">${price}</span>
+                        <span class="spec-value">${book['Price US']}</span>
                     </div>
                 `;
-                hasMultiplePrices = true;
+                hasPricing = true;
             }
             
-            if (canMatch) {
-                let price = canMatch[1].trim();
-                if (!price.includes('$')) price = '$' + price;
-                pricingHTML += `
+            if (book['Price CAN'] && book['Price CAN'].toString().trim()) {
+                html += `
                     <div class="spec-row">
                         <span class="spec-label">Price (Canada):</span>
-                        <span class="spec-value">${price}</span>
+                        <span class="spec-value">${book['Price CAN']}</span>
                     </div>
                 `;
-                hasMultiplePrices = true;
+                hasPricing = true;
             }
             
-            if (ausMatch) {
-                let price = ausMatch[1].trim();
-                if (!price.includes('$')) price = '$' + price;
-                pricingHTML += `
-                    <div class="spec-row">
-                        <span class="spec-label">Price (Australia):</span>
-                        <span class="spec-value">${price}</span>
-                    </div>
-                `;
-                hasMultiplePrices = true;
-            }
-            
-            if (eurMatch) {
-                let price = eurMatch[1].trim();
-                if (!price.includes('€')) price = '€' + price;
-                pricingHTML += `
-                    <div class="spec-row">
-                        <span class="spec-label">Price (Europe):</span>
-                        <span class="spec-value">${price}</span>
-                    </div>
-                `;
-                hasMultiplePrices = true;
-            }
-            
-            // If no multiple prices found, show original
-            if (!hasMultiplePrices) {
-                pricingHTML = `
+            // If no pricing found, show a placeholder
+            if (!hasPricing) {
+                html += `
                     <div class="spec-row">
                         <span class="spec-label">Price:</span>
-                        <span class="spec-value">${priceString}</span>
+                        <span class="spec-value">Unpriced</span>
                     </div>
                 `;
             }
-            
-            html += pricingHTML;
             
             html += `
                     <div class="section-header">Physical Specifications</div>
@@ -503,7 +456,7 @@ function displayResults(results) {
                     </div>
                     <div class="spec-row">
                         <span class="spec-label">Packing:</span>
-                        <span class="spec-value">${book.Packing}</span>
+                        <span class="spec-value">${book.Packing || 'Not specified'}</span>
                     </div>
                     
                     ${coverSpecDecoding ? `
