@@ -8,7 +8,8 @@ A comprehensive web application for searching book specifications by ISBN or Mas
 - **ISBN Search**: Search by full or partial ISBN numbers
 - **Master Order ID Search**: Search using Master Order IDs (e.g., SA0736)
 - **Detailed Specifications**: View complete book specifications including:
-  - Basic Information (ISBN, Master Order ID, Bind Style, Extent, Price)
+  - Basic Information (ISBN, Master Order ID, Bind Style, Extent, Bleeds)
+  - Regional Pricing (UK, US, Canada with fallback to "Unpriced")
   - Physical Specifications (Trim Height, Trim Width, Cover Spine, Paper details)
   - Paper specifications (GSM and Micron values)
   - Packing information
@@ -79,12 +80,15 @@ The application expects `data.json` to contain an array of book objects with thi
     "Bind Style": "Limp",
     "Extent": 192,
     "Cover Spine": 12,
+    "Price UK": "£6.99",
+    "Price US": "",
+    "Price CAN": "",
     "Paper": "DCLAY01",
     "Gsm": 52,
     "Micron": 114,
     "Cover Spec": "C406P2",
-    "Price": "Unpriced",
-    "Packing": "Pack (104) (8) Base."
+    "Packing": "Pack (104) (8) Base.",
+    "Bleeds": "No"
   }
 ]
 ```
@@ -98,12 +102,15 @@ The application expects `data.json` to contain an array of book objects with thi
 - `Bind Style`: Binding type
 - `Extent`: Number of pages
 - `Cover Spine`: Spine width in millimeters
+- `Price UK`: UK pricing (shows "Unpriced" if empty)
+- `Price US`: US pricing (shows "Unpriced" if empty)
+- `Price CAN`: Canada pricing (shows "Unpriced" if empty)
 - `Paper`: Paper specification code
 - `Gsm`: Paper weight in GSM
 - `Micron`: Paper thickness in microns
 - `Cover Spec`: Cover specification code (for decoding)
-- `Price`: Pricing information
-- `Packing`: Packing specifications
+- `Packing`: Packing specifications (optional - shows "Not specified" if missing)
+- `Bleeds`: Bleed specifications (optional - shows "Not specified" if missing)
 
 ## 🔧 Technical Details
 
