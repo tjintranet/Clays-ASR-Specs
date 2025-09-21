@@ -95,61 +95,6 @@ const specData = {
     }
 };
 
-// Function to parse multi-region pricing - MOVED TO TOP
-function parsePricing(priceString) {
-    try {
-        if (!priceString || priceString === 'Unpriced') {
-            return { hasMultiplePrices: false, original: priceString || 'Unpriced' };
-        }
-
-        const prices = {};
-        let hasMultiplePrices = false;
-
-        // Common patterns for different regions
-        const patterns = [
-            { region: 'UK', regex: /U\.?K\.?\s*£?([£\d.,]+)/i },
-            { region: 'US', regex: /U\.?S\.?\s*\$?([£$\d.,]+)/i },
-            { region: 'Canada', regex: /Can\.?\s*\$?([£$\d.,]+)/i },
-            { region: 'Australia', regex: /Aus\.?\s*\$?([£$\d.,]+)/i },
-            { region: 'Europe', regex: /Eur\.?\s*€?([€\d.,]+)/i }
-        ];
-
-        // Try to match each pattern
-        patterns.forEach(pattern => {
-            try {
-                const match = priceString.match(pattern.regex);
-                if (match && match[1]) {
-                    let price = match[1].trim();
-                    
-                    // Add currency symbol if missing
-                    if (pattern.region === 'UK' && !price.includes('£')) {
-                        price = '£' + price;
-                    } else if ((pattern.region === 'US' || pattern.region === 'Canada' || pattern.region === 'Australia') && !price.includes('$')) {
-                        price = '$' + price;
-                    } else if (pattern.region === 'Europe' && !price.includes('€')) {
-                        price = '€' + price;
-                    }
-                    
-                    prices[pattern.region] = price;
-                    hasMultiplePrices = true;
-                }
-            } catch (patternError) {
-                console.warn('Error parsing pattern for region:', pattern.region, patternError);
-            }
-        });
-
-        return {
-            hasMultiplePrices,
-            prices,
-            original: priceString
-        };
-    } catch (error) {
-        console.error('Error in parsePricing function:', error);
-        // Return safe fallback
-        return { hasMultiplePrices: false, original: priceString || 'Unpriced' };
-    }
-}
-
 // Function to decode Cover Spec codes
 function decodeCoverSpec(code) {
     if (!code || code.length < 6) {
@@ -349,7 +294,6 @@ function displayResults(results) {
     
     results.forEach((book, index) => {
         try {
-            console.log('Processing book:', book.TITLE); // Debug log
             const coverSpecDecoding = decodeCoverSpec(book['Cover Spec']);
             
             html += `
@@ -381,90 +325,65 @@ function displayResults(results) {
                     </div>
             `;
             
-            // Display separate price fields - no parsing needed now
-            let hasPricing = false;
-            
-            if (book['Price UK'] && book['Price UK'].toString().trim()) {
-                html += `
-                    <div class="spec-row">
-                        <span class="spec-label">Price (UK):</span>
-                        <span class="spec-value">${book['Price UK']}</span>
-                    </div>
-                `;
-                hasPricing = true;
-            }
-            
-            if (book['Price US'] && book['Price US'].toString().trim()) {
-                html += `
-                    <div class="spec-row">
-                        <span class="spec-label">Price (US):</span>
-                        <span class="spec-value">${book['Price US']}</span>
-                    </div>
-                `;
-                hasPricing = true;
-            }
-            
-            if (book['Price CAN'] && book['Price CAN'].toString().trim()) {
-                html += `
-                    <div class="spec-row">
-                        <span class="spec-label">Price (Canada):</span>
-                        <span class="spec-value">${book['Price CAN']}</span>
-                    </div>
-                `;
-                hasPricing = true;
-            }
-            
-            // If no pricing found, show a placeholder
-            if (!hasPricing) {
-                html += `
-                    <div class="spec-row">
-                        <span class="spec-label">Price:</span>
-                        <span class="spec-value">Unpriced</span>
-                    </div>
-                `;
-            }
+            // Display all price fields - show "Unpriced" for empty values
+            const priceUK = (book['Price UK'] && book['Price UK'].toString().trim()) ? book['Price UK'] : 'Unpriced';
+            const priceUS = (book['Price US'] && book['Price US'].toString().trim()) ? book['Price US'] : 'Unpriced';
+            const priceCAN = (book['Price CAN'] && book['Price CAN'].toString().trim()) ? book['Price CAN'] : 'Unpriced';
             
             html += `
-                    <div class="section-header">Physical Specifications</div>
-                    <div class="spec-row">
-                        <span class="spec-label">Trim Height:</span>
-                        <span class="spec-value">${book['Trim Height']} mm</span>
-                    </div>
-                    <div class="spec-row">
-                        <span class="spec-label">Trim Width:</span>
-                        <span class="spec-value">${book['Trim Width']} mm</span>
-                    </div>
-                    <div class="spec-row">
-                        <span class="spec-label">Cover Spine:</span>
-                        <span class="spec-value">${book['Cover Spine']} mm</span>
-                    </div>
-                    <div class="spec-row">
-                        <span class="spec-label">Paper:</span>
-                        <span class="spec-value">${book.Paper}</span>
-                    </div>
-                    <div class="spec-row">
-                        <span class="spec-label">Paper Weight:</span>
-                        <span class="spec-value">${book.Gsm} gsm</span>
-                    </div>
-                    <div class="spec-row">
-                        <span class="spec-label">Paper Thickness:</span>
-                        <span class="spec-value">${book.Micron} microns</span>
-                    </div>
-                    <div class="spec-row">
-                        <span class="spec-label">Cover Spec:</span>
-                        <span class="spec-value">${book['Cover Spec']}</span>
-                    </div>
-                    <div class="spec-row">
-                        <span class="spec-label">Packing:</span>
-                        <span class="spec-value">${book.Packing || 'Not specified'}</span>
-                    </div>
-                    
-                    ${coverSpecDecoding ? `
-                    <div class="section-header">Cover Specification Decoded</div>
-                    ${coverSpecDecoding}
-                    ` : ''}
+                <div class="spec-row">
+                    <span class="spec-label">Price (UK):</span>
+                    <span class="spec-value">${priceUK}</span>
                 </div>
-            `;
+                <div class="spec-row">
+                    <span class="spec-label">Price (US):</span>
+                    <span class="spec-value">${priceUS}</span>
+                </div>
+                <div class="spec-row">
+                    <span class="spec-label">Price (Canada):</span>
+                    <span class="spec-value">${priceCAN}</span>
+                </div>
+                
+                <div class="section-header">Physical Specifications</div>
+                <div class="spec-row">
+                    <span class="spec-label">Trim Height:</span>
+                    <span class="spec-value">${book['Trim Height']} mm</span>
+                </div>
+                <div class="spec-row">
+                    <span class="spec-label">Trim Width:</span>
+                    <span class="spec-value">${book['Trim Width']} mm</span>
+                </div>
+                <div class="spec-row">
+                    <span class="spec-label">Cover Spine:</span>
+                    <span class="spec-value">${book['Cover Spine']} mm</span>
+                </div>
+                <div class="spec-row">
+                    <span class="spec-label">Paper:</span>
+                    <span class="spec-value">${book.Paper}</span>
+                </div>
+                <div class="spec-row">
+                    <span class="spec-label">Paper Weight:</span>
+                    <span class="spec-value">${book.Gsm} gsm</span>
+                </div>
+                <div class="spec-row">
+                    <span class="spec-label">Paper Thickness:</span>
+                    <span class="spec-value">${book.Micron} microns</span>
+                </div>
+                <div class="spec-row">
+                    <span class="spec-label">Cover Spec:</span>
+                    <span class="spec-value">${book['Cover Spec']}</span>
+                </div>
+                <div class="spec-row">
+                    <span class="spec-label">Packing:</span>
+                    <span class="spec-value">${book.Packing || 'Not specified'}</span>
+                </div>
+                
+                ${coverSpecDecoding ? `
+                <div class="section-header">Cover Specification Decoded</div>
+                ${coverSpecDecoding}
+                ` : ''}
+            </div>
+        `;
         } catch (error) {
             console.error('Error processing book:', book.TITLE, error);
             // Add a fallback display for this book
