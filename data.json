@@ -177153,7 +177153,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": ""
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408728116,
@@ -177172,7 +177172,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": ""
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780719569029,
@@ -177191,7 +177191,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": ""
+    "Bleeds": "Yes"
   },
   {
     "ISBN": 9780751548303,
@@ -177210,7 +177210,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": ""
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349128146,
@@ -177229,6 +177229,44 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": ""
+    "Bleeds": "No"
+  },
+  {
+    "ISBN": 9780749942014,
+    "Master Order ID": "TDY808",
+    "TITLE": "ASR SISTER",
+    "Trim Height": 198,
+    "Trim Width": 126,
+    "Bind Style": "Limp",
+    "Extent": 384,
+    "Cover Spine": 24,
+    "Price UK": "Unpriced",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DCLAY01",
+    "Gsm": 52,
+    "Micron": 114,
+    "Cover Spec": "C400P2",
+    "Packing": "Pack (40) (8) Base MUST",
+    "Bleeds": "No"
+  },
+  {
+    "ISBN": 9780349401058,
+    "Master Order ID": "TFB916",
+    "TITLE": "ASR TODDLERCALM",
+    "Trim Height": 234,
+    "Trim Width": 153,
+    "Bind Style": "Limp",
+    "Extent": 272,
+    "Cover Spine": 19,
+    "Price UK": "Unpriced",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DCLAY02",
+    "Gsm": 65,
+    "Micron": 138,
+    "Cover Spec": "C400P2",
+    "Packing": "Pack (36) (4) Base.",
+    "Bleeds": "No"
   }
 ]
