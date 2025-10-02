@@ -176545,7 +176545,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340993705,
@@ -176697,7 +176697,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340956489,
@@ -176716,7 +176716,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356509297,
@@ -176849,7 +176849,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "No"
+    "Bleeds": "Yes"
   },
   {
     "ISBN": 9780749956721,
@@ -176868,7 +176868,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780708898758,
@@ -176963,7 +176963,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "No"
+    "Bleeds": "Yes"
   },
   {
     "ISBN": 9781849014649,
@@ -176982,7 +176982,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349141152,
@@ -177001,7 +177001,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356520070,
@@ -177020,7 +177020,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "No"
+    "Bleeds": "Yes"
   },
   {
     "ISBN": 9781787394797,
@@ -177115,7 +177115,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "No"
+    "Bleeds": "Yes"
   },
   {
     "ISBN": 9781444935585,
@@ -177134,7 +177134,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "No"
+    "Bleeds": "Yes"
   },
   {
     "ISBN": 9780600634959,
@@ -177191,7 +177191,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751548303,
@@ -177267,6 +177267,234 @@
     "Micron": 138,
     "Cover Spec": "C400P2",
     "Packing": "Pack (36) (4) Base.",
+    "Bleeds": "No"
+  },
+  {
+    "ISBN": 9781510112421,
+    "Master Order ID": "TGD549",
+    "TITLE": "ASR TRANSCENDENT",
+    "Trim Height": 198,
+    "Trim Width": 129,
+    "Bind Style": "Limp",
+    "Extent": 336,
+    "Cover Spine": 24,
+    "Price UK": "",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DHOL03",
+    "Gsm": 65,
+    "Micron": 138,
+    "Cover Spec": "C401P2",
+    "Packing": "Pack (48) (8) Base.",
+    "Bleeds": "Yes"
+  },
+  {
+    "ISBN": 9781444961874,
+    "Master Order ID": "TGD557",
+    "TITLE": "ASR WHAT'S NEW, HARPER DREW LIGHTS, DRAMA, ACTION!",
+    "Trim Height": 198,
+    "Trim Width": 129,
+    "Bind Style": "Limp",
+    "Extent": 240,
+    "Cover Spine": 15,
+    "Price UK": "£7.99",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DHOL02",
+    "Gsm": 60,
+    "Micron": 116,
+    "Cover Spec": "C406P2",
+    "Packing": "Pack (72) (8) Base.",
+    "Bleeds": "No"
+  },
+  {
+    "ISBN": 9781526366658,
+    "Master Order ID": "TGE066",
+    "TITLE": "ASR THE DAUGHTER OF AUSCHWITZ",
+    "Trim Height": 198,
+    "Trim Width": 129,
+    "Bind Style": "Limp",
+    "Extent": 224,
+    "Cover Spine": 16,
+    "Price UK": "",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DHOL03",
+    "Gsm": 65,
+    "Micron": 138,
+    "Cover Spec": "C401P2",
+    "Packing": "Pack (64) (8) Base.",
+    "Bleeds": "Yes"
+  },
+  {
+    "ISBN": 9781035408740,
+    "Master Order ID": "TGE198",
+    "TITLE": "ASR BUY YOURSELF THE F*CKING LILIES",
+    "Trim Height": 198,
+    "Trim Width": 129,
+    "Bind Style": "Limp",
+    "Extent": 352,
+    "Cover Spine": 21,
+    "Price UK": "",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DHOL01",
+    "Gsm": 52,
+    "Micron": 114,
+    "Cover Spec": "C406P2",
+    "Packing": "Pack (56) (8) Base.",
+    "Bleeds": "No"
+  },
+  {
+    "ISBN": 9781472277039,
+    "Master Order ID": "TGE201",
+    "TITLE": "ASR CHANGING GEAR",
+    "Trim Height": 198,
+    "Trim Width": 129,
+    "Bind Style": "Limp",
+    "Extent": 352,
+    "Cover Spine": 21,
+    "Price UK": "",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DHOL01",
+    "Gsm": 52,
+    "Micron": 114,
+    "Cover Spec": "C406P2",
+    "Packing": "Pack (56) (8) Base.",
+    "Bleeds": "No"
+  },
+  {
+    "ISBN": 9781472299055,
+    "Master Order ID": "TGE202",
+    "TITLE": "ASR UNSTOPPABLE",
+    "Trim Height": 198,
+    "Trim Width": 129,
+    "Bind Style": "Limp",
+    "Extent": 352,
+    "Cover Spine": 21,
+    "Price UK": "",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DHOL01",
+    "Gsm": 52,
+    "Micron": 114,
+    "Cover Spec": "C406P2",
+    "Packing": "Pack (56) (8) Base.",
+    "Bleeds": "No"
+  },
+  {
+    "ISBN": 9781472249951,
+    "Master Order ID": "TGE204",
+    "TITLE": "ASR BURY THEM DEEP",
+    "Trim Height": 198,
+    "Trim Width": 129,
+    "Bind Style": "Limp",
+    "Extent": 464,
+    "Cover Spine": 28,
+    "Price UK": "",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DHOL01",
+    "Gsm": 52,
+    "Micron": 114,
+    "Cover Spec": "C406P2",
+    "Packing": "Pack (40) (8) Base.",
+    "Bleeds": "No"
+  },
+  {
+    "ISBN": 9780749958459,
+    "Master Order ID": "TGE210",
+    "TITLE": "ASR LAIR OF THE LION",
+    "Trim Height": 198,
+    "Trim Width": 126,
+    "Bind Style": "Limp",
+    "Extent": 416,
+    "Cover Spine": 25,
+    "Price UK": "",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DHOL01",
+    "Gsm": 52,
+    "Micron": 114,
+    "Cover Spec": "C400P2",
+    "Packing": "Pack (48) (8) Base.",
+    "Bleeds": "No"
+  },
+  {
+    "ISBN": 9781472291172,
+    "Master Order ID": "TGE213",
+    "TITLE": "ASR RED DIRT ROAD",
+    "Trim Height": 198,
+    "Trim Width": 129,
+    "Bind Style": "Limp",
+    "Extent": 320,
+    "Cover Spine": 19,
+    "Price UK": "",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DHOL01",
+    "Gsm": 52,
+    "Micron": 114,
+    "Cover Spec": "C406P2",
+    "Packing": "Pack (56) (8) Base.",
+    "Bleeds": "No"
+  },
+  {
+    "ISBN": 9780349430409,
+    "Master Order ID": "TGE215",
+    "TITLE": "ASR THE SERPENT IN HEAVEN",
+    "Trim Height": 198,
+    "Trim Width": 126,
+    "Bind Style": "Limp",
+    "Extent": 304,
+    "Cover Spine": 18,
+    "Price UK": "",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DHOL01",
+    "Gsm": 52,
+    "Micron": 114,
+    "Cover Spec": "C400P2",
+    "Packing": "Pack (64) (8) Base.",
+    "Bleeds": "No"
+  },
+  {
+    "ISBN": 9781472272850,
+    "Master Order ID": "TGE221",
+    "TITLE": "ASR THE CROOKED BRANCH",
+    "Trim Height": 198,
+    "Trim Width": 129,
+    "Bind Style": "Limp",
+    "Extent": 384,
+    "Cover Spine": 23,
+    "Price UK": "",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DHOL01",
+    "Gsm": 52,
+    "Micron": 114,
+    "Cover Spec": "C400P2",
+    "Packing": "Pack (48) (8) Base.",
+    "Bleeds": "No"
+  },
+  {
+    "ISBN": 9780349114798,
+    "Master Order ID": "TGE335",
+    "TITLE": "ASR SHAMELESS",
+    "Trim Height": 198,
+    "Trim Width": 126,
+    "Bind Style": "Limp",
+    "Extent": 288,
+    "Cover Spine": 18,
+    "Price UK": "",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DHOL01",
+    "Gsm": 52,
+    "Micron": 114,
+    "Cover Spec": "C400P2",
+    "Packing": "Pack (56) (8) Base.",
     "Bleeds": "No"
   }
 ]
