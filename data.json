@@ -177496,5 +177496,24 @@
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
     "Bleeds": "No"
+  },
+  {
+    "ISBN": 9781408369692,
+    "Master Order ID": "TFV694",
+    "TITLE": "ASR BEAST QUEST MAKORO THE BLINDING STINGER",
+    "Trim Height": 198,
+    "Trim Width": 129,
+    "Bind Style": "Limp",
+    "Extent": 160,
+    "Cover Spine": 12,
+    "Price UK": "",
+    "Price US": "",
+    "Price CAN": "",
+    "Paper": "DHOL03",
+    "Gsm": 65,
+    "Micron": 138,
+    "Cover Spec": "C401P2",
+    "Packing": "Pack (104) (8) Base.",
+    "Bleeds": "Yes"
   }
 ]
