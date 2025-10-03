@@ -244,18 +244,18 @@ document.addEventListener('DOMContentLoaded', function() {
     loadBooksData();
 });
 
-// Load books database from data.json
-async function loadBooksDatabase() {
+// Load JSON data when page loads
+async function loadBooksData() {
     try {
-        const response = await fetch(`data.json?t=${Date.now()}`);
+        const response = await fetch('data.json');
         if (!response.ok) {
-            console.warn('Could not load data.json - proceeding without database lookup');
-            return;
+            throw new Error(`HTTP error! status: ${response.status}`);
         }
-        booksDatabase = await response.json();
-        console.log(`Loaded ${booksDatabase.length} books from database`);
+        booksData = await response.json();
+        console.log('Books data loaded successfully');
     } catch (error) {
-        console.warn('Error loading books database:', error);
+        console.error('Error loading books data:', error);
+        showError('Failed to load book data. Please make sure data.json is available.');
     }
 }
 
