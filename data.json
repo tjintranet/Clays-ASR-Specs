@@ -3146,7 +3146,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -11278,7 +11278,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DNAV01",
     "Gsm": 80,
     "Micron": 98,
     "Cover Spec": "C400P2",
@@ -33774,7 +33774,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -33907,7 +33907,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DAMH07",
     "Gsm": 80,
     "Micron": 97,
     "Cover Spec": "C400P2",
@@ -34439,7 +34439,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DAMH07",
     "Gsm": 80,
     "Micron": 97,
     "Cover Spec": "C400P2",
@@ -39631,7 +39631,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473212060,
@@ -39707,7 +39707,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base - MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444795455,
@@ -40177,7 +40177,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -41664,7 +41664,7 @@
     "Micron": 138,
     "Cover Spec": "C400P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780872490,
@@ -42158,7 +42158,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444916751,
@@ -42443,7 +42443,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473673199,
@@ -45630,7 +45630,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -45972,7 +45972,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -46889,7 +46889,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356503769,
@@ -47174,7 +47174,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472210340,
@@ -47364,7 +47364,7 @@
     "Micron": 108,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781848667426,
@@ -47554,7 +47554,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444761221,
@@ -47820,7 +47820,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444768503,
@@ -48333,7 +48333,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356502830,
@@ -52546,7 +52546,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -52603,7 +52603,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DNAV01",
     "Gsm": 80,
     "Micron": 98,
     "Cover Spec": "C400P2",
@@ -52622,7 +52622,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -52646,7 +52646,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473657632,
@@ -54351,7 +54351,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DAMH07",
     "Gsm": 80,
     "Micron": 97,
     "Cover Spec": "C400P2",
@@ -54788,7 +54788,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -57358,7 +57358,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349415666,
@@ -57757,7 +57757,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780719567131,
@@ -57776,7 +57776,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781784299989,
@@ -58194,7 +58194,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473632134,
@@ -58365,7 +58365,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780747245889,
@@ -59163,7 +59163,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340966372,
@@ -59182,7 +59182,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780747264996,
@@ -59790,7 +59790,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340689547,
@@ -60398,7 +60398,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.  MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473641204,
@@ -60474,7 +60474,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473208902,
@@ -60683,7 +60683,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base - MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780857059536,
@@ -61685,7 +61685,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DAMH07",
     "Gsm": 80,
     "Micron": 97,
     "Cover Spec": "C400P2",
@@ -62996,7 +62996,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -64958,7 +64958,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473224575,
@@ -64996,7 +64996,7 @@
     "Micron": 138,
     "Cover Spec": "C400P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780878829,
@@ -65528,7 +65528,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473648661,
@@ -66269,7 +66269,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780872476,
@@ -66573,7 +66573,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781409149378,
@@ -66725,7 +66725,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780749938246,
@@ -67067,7 +67067,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780621814,
@@ -67390,7 +67390,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780621388,
@@ -67770,7 +67770,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356508948,
@@ -68169,7 +68169,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408327661,
@@ -68226,7 +68226,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408349908,
@@ -68283,7 +68283,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408300022,
@@ -68321,7 +68321,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408342978,
@@ -68340,7 +68340,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408343173,
@@ -68359,7 +68359,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408343258,
@@ -68378,7 +68378,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408330180,
@@ -68416,7 +68416,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408334287,
@@ -68511,7 +68511,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408349090,
@@ -68625,7 +68625,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (224) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408312384,
@@ -68682,7 +68682,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (168) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408349595,
@@ -68701,7 +68701,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408312896,
@@ -68910,7 +68910,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408312902,
@@ -68929,7 +68929,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (168) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408347270,
@@ -69556,7 +69556,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444934410,
@@ -69575,7 +69575,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444934427,
@@ -69594,7 +69594,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349124469,
@@ -69632,7 +69632,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349132099,
@@ -69670,7 +69670,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349132051,
@@ -69727,7 +69727,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510201859,
@@ -69822,7 +69822,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340894361,
@@ -69879,7 +69879,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340997413,
@@ -69917,7 +69917,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444913705,
@@ -70050,7 +70050,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (112) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781445132983,
@@ -70069,7 +70069,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (256) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444922363,
@@ -70088,7 +70088,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444922301,
@@ -70126,7 +70126,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444923728,
@@ -70145,7 +70145,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444922417,
@@ -70202,7 +70202,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510201316,
@@ -70430,7 +70430,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444929201,
@@ -70449,7 +70449,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444936919,
@@ -70506,7 +70506,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444916508,
@@ -70563,7 +70563,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444921205,
@@ -70582,7 +70582,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349124537,
@@ -70620,7 +70620,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444927788,
@@ -70753,7 +70753,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473606913,
@@ -70791,7 +70791,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (136) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473609501,
@@ -70810,7 +70810,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781857885767,
@@ -70848,7 +70848,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444179439,
@@ -70886,7 +70886,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781857886276,
@@ -70943,7 +70943,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473607071,
@@ -70962,7 +70962,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781857886283,
@@ -71019,7 +71019,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (136) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473616318,
@@ -71057,7 +71057,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473693265,
@@ -71152,7 +71152,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444190137,
@@ -71171,7 +71171,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473607859,
@@ -71190,7 +71190,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (136) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473608726,
@@ -71209,7 +71209,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473610217,
@@ -71228,7 +71228,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (136) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473610293,
@@ -71247,7 +71247,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473612082,
@@ -71266,7 +71266,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781857883251,
@@ -71399,7 +71399,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473609181,
@@ -71418,7 +71418,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781471801631,
@@ -71437,7 +71437,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473611665,
@@ -71456,7 +71456,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473634176,
@@ -71494,7 +71494,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781857881301,
@@ -71608,7 +71608,7 @@
     "Micron": 116,
     "Cover Spec": "C405P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444105230,
@@ -71627,7 +71627,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473610354,
@@ -71646,7 +71646,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781857883978,
@@ -71779,7 +71779,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (32) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444193046,
@@ -71817,7 +71817,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (96) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444102352,
@@ -71855,7 +71855,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (32) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472219213,
@@ -71893,7 +71893,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751571110,
@@ -72273,7 +72273,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408323687,
@@ -72292,7 +72292,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408323762,
@@ -72330,7 +72330,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408333075,
@@ -72387,7 +72387,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408304488,
@@ -72425,7 +72425,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408323670,
@@ -72463,7 +72463,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408329016,
@@ -72482,7 +72482,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408329009,
@@ -72520,7 +72520,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408323397,
@@ -72539,7 +72539,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781841214085,
@@ -72558,7 +72558,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (208) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408329092,
@@ -72577,7 +72577,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base - MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408329665,
@@ -72615,7 +72615,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408323403,
@@ -72634,7 +72634,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408336168,
@@ -72653,7 +72653,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408340103,
@@ -72691,7 +72691,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408343913,
@@ -72710,7 +72710,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781843621348,
@@ -72748,7 +72748,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408351055,
@@ -72767,7 +72767,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408343739,
@@ -72786,7 +72786,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408330265,
@@ -72843,7 +72843,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408309797,
@@ -72938,7 +72938,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473223851,
@@ -73484,7 +73484,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -73584,7 +73584,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780755386611,
@@ -73660,7 +73660,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780304367382,
@@ -74002,7 +74002,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781409152767,
@@ -76301,7 +76301,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (32) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473631922,
@@ -76567,7 +76567,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444791440,
@@ -76757,7 +76757,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781841197906,
@@ -77118,7 +77118,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472235039,
@@ -77137,7 +77137,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780755352784,
@@ -77935,7 +77935,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356508924,
@@ -77954,7 +77954,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356512013,
@@ -77973,7 +77973,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356507217,
@@ -79189,7 +79189,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780755337590,
@@ -79436,7 +79436,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781782064190,
@@ -82210,7 +82210,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473638341,
@@ -82490,7 +82490,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -83046,7 +83046,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472150752,
@@ -83274,7 +83274,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444754407,
@@ -83350,7 +83350,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781849160391,
@@ -83958,7 +83958,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444757422,
@@ -84015,7 +84015,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473676169,
@@ -84224,7 +84224,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751553789,
@@ -84319,7 +84319,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base. must",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780755397181,
@@ -84547,7 +84547,7 @@
     "Micron": 138,
     "Cover Spec": "C400P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751570878,
@@ -84889,7 +84889,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780755358700,
@@ -84984,7 +84984,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472243829,
@@ -85459,7 +85459,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473638198,
@@ -85592,7 +85592,7 @@
     "Micron": 116,
     "Cover Spec": "C415P2",
     "Packing": "Pack (96) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780716022213,
@@ -85744,7 +85744,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751570823,
@@ -86708,7 +86708,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -87872,7 +87872,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (136) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349412924,
@@ -89444,7 +89444,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -91040,7 +91040,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -91520,7 +91520,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472131713,
@@ -92736,7 +92736,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751581126,
@@ -92850,7 +92850,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751546101,
@@ -93192,7 +93192,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356514383,
@@ -93211,7 +93211,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349427041,
@@ -94175,7 +94175,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -97562,7 +97562,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349006116,
@@ -98075,7 +98075,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781841495491,
@@ -98151,7 +98151,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473217751,
@@ -98208,7 +98208,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781786158048,
@@ -98531,7 +98531,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (16) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780749958008,
@@ -98930,7 +98930,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473684799,
@@ -98987,7 +98987,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444766165,
@@ -99248,7 +99248,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DNAV01",
     "Gsm": 80,
     "Micron": 98,
     "Cover Spec": "C400P2",
@@ -99267,7 +99267,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -99367,7 +99367,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473677241,
@@ -99500,7 +99500,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340862360,
@@ -99690,7 +99690,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473640023,
@@ -99728,7 +99728,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473663053,
@@ -99785,7 +99785,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473669932,
@@ -99880,7 +99880,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529354843,
@@ -99899,7 +99899,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529325317,
@@ -99918,7 +99918,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529342970,
@@ -100070,7 +100070,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529362176,
@@ -100469,7 +100469,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444780239,
@@ -100849,7 +100849,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340939598,
@@ -100944,7 +100944,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444117189,
@@ -100963,7 +100963,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (96) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473695382,
@@ -101020,7 +101020,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473667921,
@@ -101248,7 +101248,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473663510,
@@ -101419,7 +101419,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349419695,
@@ -101533,7 +101533,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780332352,
@@ -101989,7 +101989,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444766141,
@@ -102103,7 +102103,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (32) (8) Base - MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349012629,
@@ -102198,7 +102198,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751576030,
@@ -102331,7 +102331,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472126603,
@@ -102388,7 +102388,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (216) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444009125,
@@ -102426,7 +102426,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408328392,
@@ -102445,7 +102445,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472282705,
@@ -102616,7 +102616,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408304396,
@@ -102635,7 +102635,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408343197,
@@ -102654,7 +102654,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349013435,
@@ -102730,7 +102730,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408340868,
@@ -102749,7 +102749,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408343333,
@@ -102768,7 +102768,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (96) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408350010,
@@ -102825,7 +102825,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472142283,
@@ -102863,7 +102863,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472125613,
@@ -102920,7 +102920,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349143828,
@@ -103015,7 +103015,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (256) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781409126973,
@@ -103053,7 +103053,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472121110,
@@ -103129,7 +103129,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780749959555,
@@ -103319,7 +103319,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781787474529,
@@ -103376,7 +103376,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473640351,
@@ -103433,7 +103433,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340839683,
@@ -103604,7 +103604,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444768428,
@@ -103661,7 +103661,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340924952,
@@ -103927,7 +103927,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444720082,
@@ -103984,7 +103984,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473697003,
@@ -104098,7 +104098,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340836309,
@@ -104117,7 +104117,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (32) (8) Base - MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473686069,
@@ -104326,7 +104326,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408349632,
@@ -104364,7 +104364,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408332511,
@@ -104535,7 +104535,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444922349,
@@ -104554,7 +104554,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408357002,
@@ -104573,7 +104573,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472275998,
@@ -104687,7 +104687,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780857058492,
@@ -104858,7 +104858,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472281487,
@@ -105162,7 +105162,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751573220,
@@ -105276,7 +105276,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349432489,
@@ -105352,7 +105352,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408303771,
@@ -105371,7 +105371,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408304426,
@@ -105390,7 +105390,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472120915,
@@ -105561,7 +105561,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (136) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510102323,
@@ -105580,7 +105580,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444015133,
@@ -105599,7 +105599,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510104129,
@@ -105637,7 +105637,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349413334,
@@ -105675,7 +105675,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472142498,
@@ -105751,7 +105751,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (184) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408342725,
@@ -105770,7 +105770,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349003542,
@@ -105808,7 +105808,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408332856,
@@ -105827,7 +105827,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408364666,
@@ -105865,7 +105865,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408307335,
@@ -105884,7 +105884,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408343234,
@@ -105903,7 +105903,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408340820,
@@ -105922,7 +105922,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408357835,
@@ -105941,7 +105941,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408343111,
@@ -105960,7 +105960,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781784296261,
@@ -106207,7 +106207,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472154798,
@@ -106302,7 +106302,7 @@
     "Micron": 138,
     "Cover Spec": "C405P2",
     "Packing": "Pack (72) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781857885941,
@@ -106316,7 +106316,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DNAV01",
     "Gsm": 80,
     "Micron": 98,
     "Cover Spec": "C401P2",
@@ -106397,7 +106397,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349010526,
@@ -106492,7 +106492,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473680609,
@@ -106625,7 +106625,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473650633,
@@ -106872,7 +106872,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529303759,
@@ -107005,7 +107005,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473610972,
@@ -107195,7 +107195,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473612327,
@@ -107689,7 +107689,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472133052,
@@ -108145,7 +108145,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408361849,
@@ -108164,7 +108164,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408342992,
@@ -108183,7 +108183,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408340806,
@@ -108582,7 +108582,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349428611,
@@ -108620,7 +108620,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472108265,
@@ -108677,7 +108677,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408351154,
@@ -108696,7 +108696,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751553970,
@@ -108715,7 +108715,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408359945,
@@ -108791,7 +108791,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751578768,
@@ -108943,7 +108943,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408347232,
@@ -108962,7 +108962,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (168) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408355268,
@@ -109095,7 +109095,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340897942,
@@ -109912,7 +109912,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (184) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408339497,
@@ -109969,7 +109969,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356514086,
@@ -109988,7 +109988,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356502786,
@@ -110007,7 +110007,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356514703,
@@ -110026,7 +110026,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356514390,
@@ -110045,7 +110045,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356515182,
@@ -110064,7 +110064,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349011981,
@@ -110083,7 +110083,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780749957247,
@@ -110140,7 +110140,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349132075,
@@ -110197,7 +110197,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751582680,
@@ -110235,7 +110235,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356514369,
@@ -110254,7 +110254,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356513201,
@@ -110273,7 +110273,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356514116,
@@ -110292,7 +110292,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356505954,
@@ -110406,7 +110406,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356515366,
@@ -110425,7 +110425,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349123448,
@@ -110501,7 +110501,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356509495,
@@ -110615,7 +110615,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (168) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780857388735,
@@ -110691,7 +110691,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444928334,
@@ -110710,7 +110710,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444117172,
@@ -110729,7 +110729,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473654266,
@@ -110805,7 +110805,7 @@
     "Micron": 116,
     "Cover Spec": "C405P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473611696,
@@ -110824,7 +110824,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473678538,
@@ -110881,7 +110881,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529329124,
@@ -110919,7 +110919,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473609594,
@@ -110938,7 +110938,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444103670,
@@ -110957,7 +110957,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473609617,
@@ -110976,7 +110976,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473610262,
@@ -110995,7 +110995,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (136) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781857886207,
@@ -111090,7 +111090,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444105100,
@@ -111109,7 +111109,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473683976,
@@ -111147,7 +111147,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (136) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781904838234,
@@ -111185,7 +111185,7 @@
     "Micron": 116,
     "Cover Spec": "C405P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444163469,
@@ -111242,7 +111242,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444013863,
@@ -111261,7 +111261,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781843628231,
@@ -111299,7 +111299,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349427980,
@@ -111356,7 +111356,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356500973,
@@ -111451,7 +111451,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408364079,
@@ -111470,7 +111470,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444014488,
@@ -111508,7 +111508,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510104143,
@@ -111565,7 +111565,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781846169519,
@@ -111584,7 +111584,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781846169915,
@@ -111603,7 +111603,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510102644,
@@ -111793,7 +111793,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472143594,
@@ -111926,7 +111926,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751569186,
@@ -112097,7 +112097,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408337486,
@@ -112116,7 +112116,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408354872,
@@ -112173,7 +112173,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356504773,
@@ -112211,7 +112211,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781841499635,
@@ -112325,7 +112325,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408323601,
@@ -112344,7 +112344,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408350997,
@@ -112363,7 +112363,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408329085,
@@ -112382,7 +112382,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472142979,
@@ -112477,7 +112477,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751582895,
@@ -112572,7 +112572,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (96) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408354148,
@@ -112591,7 +112591,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (96) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472277138,
@@ -112724,7 +112724,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (208) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600635260,
@@ -112743,7 +112743,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780749955380,
@@ -112895,7 +112895,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base  - MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781783254156,
@@ -112952,7 +112952,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751569513,
@@ -113009,7 +113009,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781784299408,
@@ -113199,7 +113199,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473604148,
@@ -113465,7 +113465,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (32) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529311464,
@@ -113617,7 +113617,7 @@
     "Micron": 116,
     "Cover Spec": "C405P2",
     "Packing": "Pack (48) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444171228,
@@ -113636,7 +113636,7 @@
     "Micron": 116,
     "Cover Spec": "C405P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473642645,
@@ -113674,7 +113674,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (136) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529319323,
@@ -113750,7 +113750,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473600959,
@@ -113769,7 +113769,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529329179,
@@ -113826,7 +113826,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781848541610,
@@ -113902,7 +113902,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (136) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473632271,
@@ -113978,7 +113978,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473662124,
@@ -113997,7 +113997,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473609174,
@@ -114016,7 +114016,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473610309,
@@ -114035,7 +114035,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (136) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473634107,
@@ -114111,7 +114111,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444182736,
@@ -114130,7 +114130,7 @@
     "Micron": 116,
     "Cover Spec": "C405P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473688490,
@@ -114301,7 +114301,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356511030,
@@ -114320,7 +114320,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751574135,
@@ -114624,7 +114624,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751575996,
@@ -114738,7 +114738,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600634904,
@@ -114852,7 +114852,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349407883,
@@ -114947,7 +114947,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444944433,
@@ -114966,7 +114966,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408341728,
@@ -115175,7 +115175,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781842551486,
@@ -115232,7 +115232,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349010809,
@@ -115270,7 +115270,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408365267,
@@ -115289,7 +115289,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444935028,
@@ -115308,7 +115308,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444927627,
@@ -115365,7 +115365,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408360040,
@@ -115384,7 +115384,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408360354,
@@ -115403,7 +115403,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408361450,
@@ -115422,7 +115422,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444764697,
@@ -115498,7 +115498,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349700564,
@@ -115726,7 +115726,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (168) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408303795,
@@ -115745,7 +115745,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780575086975,
@@ -116011,7 +116011,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472145376,
@@ -116049,7 +116049,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510100268,
@@ -116087,7 +116087,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349141145,
@@ -116258,7 +116258,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751579819,
@@ -116600,7 +116600,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781909770706,
@@ -116638,7 +116638,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356513690,
@@ -117037,7 +117037,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349016115,
@@ -117113,7 +117113,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780724157,
@@ -117341,7 +117341,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444940312,
@@ -117360,7 +117360,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408352069,
@@ -117379,7 +117379,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780724683,
@@ -117474,7 +117474,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781914240232,
@@ -117588,7 +117588,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356500249,
@@ -117607,7 +117607,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356512259,
@@ -117626,7 +117626,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356518107,
@@ -117645,7 +117645,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349144474,
@@ -117930,7 +117930,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751571356,
@@ -118044,7 +118044,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (96) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408307366,
@@ -118063,7 +118063,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781409187677,
@@ -118120,7 +118120,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444935141,
@@ -118234,7 +118234,7 @@
     "Micron": 116,
     "Cover Spec": "C405P2",
     "Packing": "Pack (72) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529396355,
@@ -118272,7 +118272,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444100198,
@@ -118443,7 +118443,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base - MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444710199,
@@ -118728,7 +118728,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (184) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408358641,
@@ -118747,7 +118747,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408336083,
@@ -118766,7 +118766,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510107120,
@@ -118937,7 +118937,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781907595219,
@@ -118975,7 +118975,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444934403,
@@ -118994,7 +118994,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780722771,
@@ -119013,7 +119013,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349016597,
@@ -119165,7 +119165,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349144757,
@@ -119241,7 +119241,7 @@
     "Micron": 114,
     "Cover Spec": "C300P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780723006,
@@ -119336,7 +119336,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510104228,
@@ -119355,7 +119355,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751568479,
@@ -119545,7 +119545,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349131900,
@@ -119564,7 +119564,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (160) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781858818245,
@@ -119583,7 +119583,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781842551363,
@@ -119678,7 +119678,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349016320,
@@ -119735,7 +119735,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780749959661,
@@ -119982,7 +119982,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356514802,
@@ -120001,7 +120001,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356513775,
@@ -120020,7 +120020,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781786483102,
@@ -120039,7 +120039,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408342749,
@@ -120134,7 +120134,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600635536,
@@ -120153,7 +120153,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600636106,
@@ -120172,7 +120172,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781913068271,
@@ -120210,7 +120210,7 @@
     "Micron": 114,
     "Cover Spec": "C300P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600636144,
@@ -120248,7 +120248,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600636687,
@@ -120267,7 +120267,7 @@
     "Micron": 114,
     "Cover Spec": "C300P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781783254866,
@@ -120305,7 +120305,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349144986,
@@ -120400,7 +120400,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408357064,
@@ -120419,7 +120419,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408323380,
@@ -120438,7 +120438,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408351017,
@@ -120457,7 +120457,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472272942,
@@ -120647,7 +120647,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408357859,
@@ -120666,7 +120666,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349430553,
@@ -120704,7 +120704,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349430461,
@@ -120837,7 +120837,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (208) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408343098,
@@ -120856,7 +120856,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751580013,
@@ -121084,7 +121084,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444949230,
@@ -121141,7 +121141,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781905654901,
@@ -121198,7 +121198,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356514420,
@@ -121217,7 +121217,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356512563,
@@ -121236,7 +121236,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356510835,
@@ -121255,7 +121255,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781841495965,
@@ -121274,7 +121274,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356514093,
@@ -121293,7 +121293,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472121486,
@@ -121331,7 +121331,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751580235,
@@ -121711,7 +121711,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473223905,
@@ -121844,7 +121844,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751572483,
@@ -122053,7 +122053,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472154804,
@@ -122110,7 +122110,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781843620181,
@@ -122680,7 +122680,7 @@
     "Micron": 116,
     "Cover Spec": "C416P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444174830,
@@ -122699,7 +122699,7 @@
     "Micron": 116,
     "Cover Spec": "C405P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444175028,
@@ -122718,7 +122718,7 @@
     "Micron": 116,
     "Cover Spec": "C405P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473600454,
@@ -122794,7 +122794,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (136) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473608856,
@@ -122832,7 +122832,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (136) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473601154,
@@ -122870,7 +122870,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473667693,
@@ -123098,7 +123098,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444933628,
@@ -123117,7 +123117,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751547986,
@@ -123212,7 +123212,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.  MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472134998,
@@ -123307,7 +123307,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781843620204,
@@ -123326,7 +123326,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (168) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349111889,
@@ -123364,7 +123364,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356502182,
@@ -123421,7 +123421,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349116495,
@@ -123535,7 +123535,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408349656,
@@ -123554,7 +123554,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781856754910,
@@ -123573,7 +123573,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444961119,
@@ -123630,7 +123630,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349427904,
@@ -123839,7 +123839,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (96) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444961089,
@@ -123896,7 +123896,7 @@
     "Micron": 138,
     "Cover Spec": "C400P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472132840,
@@ -123915,7 +123915,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472235244,
@@ -124010,7 +124010,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base - MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349140674,
@@ -124105,7 +124105,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356513447,
@@ -124124,7 +124124,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349418742,
@@ -124447,7 +124447,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600633136,
@@ -124466,7 +124466,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600636663,
@@ -124504,7 +124504,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349113890,
@@ -124561,7 +124561,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781860490743,
@@ -124732,7 +124732,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781409174097,
@@ -124922,7 +124922,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510201323,
@@ -124979,7 +124979,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340681114,
@@ -125074,7 +125074,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408355183,
@@ -125359,7 +125359,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356503561,
@@ -125530,7 +125530,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340944974,
@@ -125568,7 +125568,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472142306,
@@ -125587,7 +125587,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781786540065,
@@ -125796,7 +125796,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472123831,
@@ -125967,7 +125967,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751574845,
@@ -126005,7 +126005,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751547276,
@@ -126119,7 +126119,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444952926,
@@ -126157,7 +126157,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444927634,
@@ -126670,7 +126670,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349408088,
@@ -126784,7 +126784,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781913183745,
@@ -126803,7 +126803,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472254597,
@@ -127449,7 +127449,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472284785,
@@ -127582,7 +127582,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472222992,
@@ -127791,7 +127791,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472261687,
@@ -128114,7 +128114,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356509617,
@@ -128133,7 +128133,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751585735,
@@ -128152,7 +128152,7 @@
     "Micron": 138,
     "Cover Spec": "C400P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349144078,
@@ -128323,7 +128323,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408364925,
@@ -128342,7 +128342,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349726427,
@@ -128684,7 +128684,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780720371,
@@ -128855,7 +128855,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472140050,
@@ -129045,7 +129045,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356501185,
@@ -129064,7 +129064,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780720470,
@@ -129254,7 +129254,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444923841,
@@ -129311,7 +129311,7 @@
     "Micron": 138,
     "Cover Spec": "C446P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781788402774,
@@ -129349,7 +129349,7 @@
     "Micron": 114,
     "Cover Spec": "C300P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780725499,
@@ -129444,7 +129444,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781783255030,
@@ -129463,7 +129463,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600637165,
@@ -129501,7 +129501,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408363379,
@@ -129520,7 +129520,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510106208,
@@ -129539,7 +129539,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340681183,
@@ -129596,7 +129596,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408336489,
@@ -129710,7 +129710,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444958669,
@@ -129729,7 +129729,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444935134,
@@ -129748,7 +129748,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444935103,
@@ -129786,7 +129786,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444927580,
@@ -129976,7 +129976,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472129659,
@@ -130052,7 +130052,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472124067,
@@ -130128,7 +130128,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444939408,
@@ -130204,7 +130204,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408315125,
@@ -130223,7 +130223,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444013917,
@@ -130242,7 +130242,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510108752,
@@ -130261,7 +130261,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349402826,
@@ -130318,7 +130318,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510108417,
@@ -130337,7 +130337,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781526364234,
@@ -130356,7 +130356,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349011288,
@@ -130451,7 +130451,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473657892,
@@ -130508,7 +130508,7 @@
     "Micron": 116,
     "Cover Spec": "C405P2",
     "Packing": "Pack (64) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444175110,
@@ -130527,7 +130527,7 @@
     "Micron": 116,
     "Cover Spec": "C415P2",
     "Packing": "Pack (96) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529370119,
@@ -130603,7 +130603,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (136) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529392937,
@@ -130907,7 +130907,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529306989,
@@ -130945,7 +130945,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529332162,
@@ -131192,7 +131192,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529332087,
@@ -131306,7 +131306,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356511610,
@@ -131325,7 +131325,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356506005,
@@ -131439,7 +131439,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356506302,
@@ -131553,7 +131553,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780725376,
@@ -131895,7 +131895,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349003955,
@@ -131914,7 +131914,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472211491,
@@ -131952,7 +131952,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349700984,
@@ -132028,7 +132028,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356513805,
@@ -132047,7 +132047,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408355121,
@@ -132085,7 +132085,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (168) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751556025,
@@ -132313,7 +132313,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781909770683,
@@ -132389,7 +132389,7 @@
     "Micron": 138,
     "Cover Spec": "C441P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781844086689,
@@ -132465,7 +132465,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (96) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510108516,
@@ -132484,7 +132484,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444969719,
@@ -132655,7 +132655,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349143187,
@@ -132921,7 +132921,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472100290,
@@ -132978,7 +132978,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780753819975,
@@ -133092,7 +133092,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349120584,
@@ -133149,7 +133149,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781848663404,
@@ -133320,7 +133320,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780622484,
@@ -133339,7 +133339,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510106994,
@@ -133510,7 +133510,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (168) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340681169,
@@ -133624,7 +133624,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751565348,
@@ -133681,7 +133681,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349425948,
@@ -133890,7 +133890,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (192) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408356968,
@@ -133909,7 +133909,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408346037,
@@ -133928,7 +133928,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408330661,
@@ -133966,7 +133966,7 @@
     "Micron": 138,
     "Cover Spec": "C441P2",
     "Packing": "Pack (88) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340681091,
@@ -134004,7 +134004,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781399612821,
@@ -134061,7 +134061,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356504803,
@@ -134080,7 +134080,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356513195,
@@ -134232,7 +134232,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408343418,
@@ -134251,7 +134251,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472129734,
@@ -134403,7 +134403,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780575099739,
@@ -134536,7 +134536,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781841495736,
@@ -134555,7 +134555,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (16) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408718483,
@@ -134669,7 +134669,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340893890,
@@ -134745,7 +134745,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781842550236,
@@ -134783,7 +134783,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444003277,
@@ -134840,7 +134840,7 @@
     "Micron": 138,
     "Cover Spec": "C446P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444007558,
@@ -134916,7 +134916,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (96) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781842555705,
@@ -134992,7 +134992,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781841499352,
@@ -135011,7 +135011,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (16) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349015033,
@@ -135087,7 +135087,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408359631,
@@ -135106,7 +135106,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529398281,
@@ -135201,7 +135201,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408329115,
@@ -135220,7 +135220,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444001495,
@@ -135258,7 +135258,7 @@
     "Micron": 138,
     "Cover Spec": "C405P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340898130,
@@ -135277,7 +135277,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473633568,
@@ -135391,7 +135391,7 @@
     "Micron": 116,
     "Cover Spec": "C416P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472210753,
@@ -135486,7 +135486,7 @@
     "Micron": 138,
     "Cover Spec": "C400P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349435619,
@@ -135543,7 +135543,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781848669079,
@@ -135619,7 +135619,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781844080656,
@@ -135790,7 +135790,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (96) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781526362339,
@@ -135828,7 +135828,7 @@
     "Micron": 138,
     "Cover Spec": "C441P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781526363336,
@@ -135866,7 +135866,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510101456,
@@ -135904,7 +135904,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510107618,
@@ -135942,7 +135942,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781526362414,
@@ -135980,7 +135980,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444000160,
@@ -135999,7 +135999,7 @@
     "Micron": 138,
     "Cover Spec": "C441P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781842550694,
@@ -136018,7 +136018,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472268433,
@@ -136075,7 +136075,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (192) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600637158,
@@ -136189,7 +136189,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781846161834,
@@ -136227,7 +136227,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (200) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408363188,
@@ -136246,7 +136246,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408347218,
@@ -136265,7 +136265,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408356920,
@@ -136284,7 +136284,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (136) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408357101,
@@ -136303,7 +136303,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781846161681,
@@ -136379,7 +136379,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (184) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444969702,
@@ -136550,7 +136550,7 @@
     "Micron": 108,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472276292,
@@ -136569,7 +136569,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781858813714,
@@ -136588,7 +136588,7 @@
     "Micron": 138,
     "Cover Spec": "C441P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408717097,
@@ -136721,7 +136721,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349433752,
@@ -136759,7 +136759,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408354124,
@@ -136778,7 +136778,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444959307,
@@ -136797,7 +136797,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444930047,
@@ -137101,7 +137101,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781841495989,
@@ -137139,7 +137139,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780857382139,
@@ -137196,7 +137196,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780755344116,
@@ -137234,7 +137234,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781845299477,
@@ -137348,7 +137348,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444929898,
@@ -137424,7 +137424,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510108523,
@@ -137443,7 +137443,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781786541369,
@@ -137462,7 +137462,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473211964,
@@ -137500,7 +137500,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408366837,
@@ -137519,7 +137519,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356515892,
@@ -137538,7 +137538,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349434414,
@@ -137633,7 +137633,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444964974,
@@ -137652,7 +137652,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408366776,
@@ -137671,7 +137671,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349429625,
@@ -137728,7 +137728,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408359297,
@@ -137766,7 +137766,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (192) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408355008,
@@ -137956,7 +137956,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (200) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408305058,
@@ -137975,7 +137975,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (208) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408350775,
@@ -137994,7 +137994,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408349564,
@@ -138051,7 +138051,7 @@
     "Micron": 138,
     "Cover Spec": "C441P2",
     "Packing": "Pack (64) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444916768,
@@ -138089,7 +138089,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349143507,
@@ -138241,7 +138241,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472129741,
@@ -138336,7 +138336,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510100237,
@@ -138374,7 +138374,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473215245,
@@ -138412,7 +138412,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408363089,
@@ -138431,7 +138431,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510201286,
@@ -138716,7 +138716,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349439594,
@@ -138887,7 +138887,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444962345,
@@ -138906,7 +138906,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751578508,
@@ -139267,7 +139267,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510102965,
@@ -139305,7 +139305,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780621715,
@@ -139343,7 +139343,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (152) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444960075,
@@ -139495,7 +139495,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408359211,
@@ -139514,7 +139514,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751551082,
@@ -139552,7 +139552,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408371527,
@@ -139571,7 +139571,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751567038,
@@ -139609,7 +139609,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408363348,
@@ -139628,7 +139628,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408369500,
@@ -139685,7 +139685,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349423654,
@@ -139761,7 +139761,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356508986,
@@ -139780,7 +139780,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473621671,
@@ -139875,7 +139875,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751567786,
@@ -140027,7 +140027,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444974799,
@@ -140065,7 +140065,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780749924010,
@@ -140122,7 +140122,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (96) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781848548930,
@@ -140179,7 +140179,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780749927004,
@@ -140217,7 +140217,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340855577,
@@ -140445,7 +140445,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408367421,
@@ -140464,7 +140464,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780755372133,
@@ -140502,7 +140502,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751550269,
@@ -140635,7 +140635,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408730232,
@@ -140692,7 +140692,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444939101,
@@ -140711,7 +140711,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781846164866,
@@ -140730,7 +140730,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444944457,
@@ -140920,7 +140920,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408315248,
@@ -141091,7 +141091,7 @@
     "Micron": 114,
     "Cover Spec": "C300P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600626497,
@@ -141110,7 +141110,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781788403658,
@@ -141186,7 +141186,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781913068578,
@@ -141281,7 +141281,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600636793,
@@ -141357,7 +141357,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781804190296,
@@ -141452,7 +141452,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600624936,
@@ -141509,7 +141509,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472124098,
@@ -141566,7 +141566,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356516974,
@@ -141585,7 +141585,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780575110816,
@@ -141642,7 +141642,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356500331,
@@ -141661,7 +141661,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751576146,
@@ -141756,7 +141756,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780575081185,
@@ -141794,7 +141794,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751551037,
@@ -141832,7 +141832,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473658356,
@@ -141870,7 +141870,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781399802680,
@@ -141927,7 +141927,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529304374,
@@ -142060,7 +142060,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529352474,
@@ -142117,7 +142117,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510104280,
@@ -142136,7 +142136,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408365380,
@@ -142155,7 +142155,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349014708,
@@ -142307,7 +142307,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510111318,
@@ -142326,7 +142326,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408368695,
@@ -142345,7 +142345,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751578447,
@@ -142383,7 +142383,7 @@
     "Micron": 116,
     "Cover Spec": "C415P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473679962,
@@ -142402,7 +142402,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473680067,
@@ -142421,7 +142421,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751561425,
@@ -142535,7 +142535,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751548600,
@@ -142611,7 +142611,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444962642,
@@ -142630,7 +142630,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408362174,
@@ -142649,7 +142649,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510112896,
@@ -142668,7 +142668,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408355220,
@@ -142706,7 +142706,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408364529,
@@ -142725,7 +142725,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408369920,
@@ -142744,7 +142744,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408369487,
@@ -142763,7 +142763,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (192) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408369449,
@@ -142782,7 +142782,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (192) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781842550212,
@@ -143029,7 +143029,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408356647,
@@ -143105,7 +143105,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780716023999,
@@ -143219,7 +143219,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473628700,
@@ -143314,7 +143314,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444952483,
@@ -143352,7 +143352,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472281029,
@@ -143466,7 +143466,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473619326,
@@ -143808,7 +143808,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349440958,
@@ -143922,7 +143922,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349400563,
@@ -143979,7 +143979,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349418902,
@@ -144036,7 +144036,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349433714,
@@ -144150,7 +144150,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510106826,
@@ -144169,7 +144169,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510104266,
@@ -144188,7 +144188,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408343470,
@@ -144207,7 +144207,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444934434,
@@ -144226,7 +144226,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781846169908,
@@ -144245,7 +144245,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781784299248,
@@ -144283,7 +144283,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356502243,
@@ -144321,7 +144321,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (96) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781848663442,
@@ -144378,7 +144378,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349407814,
@@ -144739,7 +144739,7 @@
     "Micron": 138,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472132000,
@@ -145062,7 +145062,7 @@
     "Micron": 81,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751576474,
@@ -145214,7 +145214,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472146854,
@@ -145309,7 +145309,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444960464,
@@ -145347,7 +145347,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408365014,
@@ -145442,7 +145442,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444913484,
@@ -145556,7 +145556,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (152) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349132235,
@@ -145670,7 +145670,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780749958602,
@@ -145936,7 +145936,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529386288,
@@ -145974,7 +145974,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529311983,
@@ -146050,7 +146050,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356515236,
@@ -146088,7 +146088,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356511368,
@@ -146107,7 +146107,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349412481,
@@ -146145,7 +146145,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444969696,
@@ -146183,7 +146183,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444962680,
@@ -146202,7 +146202,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444964899,
@@ -146273,7 +146273,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DNAV01",
     "Gsm": 80,
     "Micron": 98,
     "Cover Spec": "C400P2",
@@ -146525,7 +146525,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529387599,
@@ -146620,7 +146620,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349001630,
@@ -146658,7 +146658,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780857387332,
@@ -146696,7 +146696,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408360002,
@@ -146715,7 +146715,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781841215334,
@@ -146753,7 +146753,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408369272,
@@ -146772,7 +146772,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529304220,
@@ -147076,7 +147076,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472124517,
@@ -147152,7 +147152,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349439839,
@@ -147247,7 +147247,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444000153,
@@ -147266,7 +147266,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408319505,
@@ -147285,7 +147285,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781846164859,
@@ -147304,7 +147304,7 @@
     "Micron": 138,
     "Cover Spec": "C441P2",
     "Packing": "Pack (64) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780747268987,
@@ -147342,7 +147342,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444702705,
@@ -147475,7 +147475,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444952971,
@@ -147494,7 +147494,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472276032,
@@ -147855,7 +147855,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473610798,
@@ -148140,7 +148140,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529400311,
@@ -148235,7 +148235,7 @@
     "Micron": 138,
     "Cover Spec": "C400P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529416145,
@@ -148520,7 +148520,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781399711616,
@@ -148862,7 +148862,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781858817217,
@@ -148919,7 +148919,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (192) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444935127,
@@ -148957,7 +148957,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408341971,
@@ -148976,7 +148976,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408360835,
@@ -148995,7 +148995,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781526365026,
@@ -149014,7 +149014,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340944998,
@@ -149052,7 +149052,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444951653,
@@ -149318,7 +149318,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751510225,
@@ -149774,7 +149774,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751561487,
@@ -149831,7 +149831,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472285416,
@@ -149888,7 +149888,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472255426,
@@ -149926,7 +149926,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356519944,
@@ -149945,7 +149945,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472124951,
@@ -150078,7 +150078,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529364118,
@@ -150230,7 +150230,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510107151,
@@ -150249,7 +150249,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444938944,
@@ -150306,7 +150306,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510108370,
@@ -150800,7 +150800,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444956047,
@@ -150819,7 +150819,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444964370,
@@ -150857,7 +150857,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751572957,
@@ -151161,7 +151161,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600636885,
@@ -151180,7 +151180,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600634959,
@@ -151199,7 +151199,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349139784,
@@ -151256,7 +151256,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781783254392,
@@ -151275,7 +151275,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781783254491,
@@ -151332,7 +151332,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781800960152,
@@ -151389,7 +151389,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781526363725,
@@ -151465,7 +151465,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444958379,
@@ -151484,7 +151484,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473688353,
@@ -151503,7 +151503,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510101715,
@@ -151522,7 +151522,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510102088,
@@ -151541,7 +151541,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529329131,
@@ -151636,7 +151636,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444941845,
@@ -151655,7 +151655,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408308103,
@@ -151693,7 +151693,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751552300,
@@ -151731,7 +151731,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781846164842,
@@ -151750,7 +151750,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472268792,
@@ -151788,7 +151788,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751570113,
@@ -151826,7 +151826,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340838358,
@@ -151883,7 +151883,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473625723,
@@ -152377,7 +152377,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781845282783,
@@ -152434,7 +152434,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (192) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529402544,
@@ -152491,7 +152491,7 @@
     "Micron": 114,
     "Cover Spec": "C440P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529414035,
@@ -152985,7 +152985,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781848665286,
@@ -153023,7 +153023,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529408966,
@@ -153080,7 +153080,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781848662636,
@@ -153118,7 +153118,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781841494470,
@@ -153175,7 +153175,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473679917,
@@ -153194,7 +153194,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444102307,
@@ -153213,7 +153213,7 @@
     "Micron": 116,
     "Cover Spec": "C416P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444103908,
@@ -153232,7 +153232,7 @@
     "Micron": 116,
     "Cover Spec": "C405P2",
     "Packing": "Pack (48) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473693296,
@@ -153460,7 +153460,7 @@
     "Micron": 138,
     "Cover Spec": "C441P2",
     "Packing": "Pack (192) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408369548,
@@ -153479,7 +153479,7 @@
     "Micron": 138,
     "Cover Spec": "C441P2",
     "Packing": "Pack (192) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408729632,
@@ -153517,7 +153517,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408356296,
@@ -153536,7 +153536,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751585469,
@@ -153612,7 +153612,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444952469,
@@ -153650,7 +153650,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781787396661,
@@ -153821,7 +153821,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444103472,
@@ -153840,7 +153840,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781847245588,
@@ -153954,7 +153954,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408369647,
@@ -153973,7 +153973,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780755349357,
@@ -154011,7 +154011,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529389180,
@@ -154049,7 +154049,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base - MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340953099,
@@ -154334,7 +154334,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472281043,
@@ -154429,7 +154429,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472286062,
@@ -154524,7 +154524,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408371503,
@@ -154543,7 +154543,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444000177,
@@ -154562,7 +154562,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781858818252,
@@ -154581,7 +154581,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444012736,
@@ -154619,7 +154619,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (96) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781784292744,
@@ -154638,7 +154638,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510109599,
@@ -154676,7 +154676,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781409170570,
@@ -154752,7 +154752,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510113275,
@@ -154771,7 +154771,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781842551172,
@@ -154828,7 +154828,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510105928,
@@ -154847,7 +154847,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780575115538,
@@ -154885,7 +154885,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781857987478,
@@ -155056,7 +155056,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780753821787,
@@ -155075,7 +155075,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473661646,
@@ -155322,7 +155322,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781409164005,
@@ -155759,7 +155759,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349422091,
@@ -155911,7 +155911,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529304749,
@@ -156424,7 +156424,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408349151,
@@ -156652,7 +156652,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444769593,
@@ -156918,7 +156918,7 @@
     "Micron": 116,
     "Cover Spec": "C415P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529400946,
@@ -156937,7 +156937,7 @@
     "Micron": 116,
     "Cover Spec": "C440P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529423341,
@@ -157089,7 +157089,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472148926,
@@ -157241,7 +157241,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356505756,
@@ -157507,7 +157507,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444013887,
@@ -157526,7 +157526,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444935769,
@@ -157621,7 +157621,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408371824,
@@ -157640,7 +157640,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408339558,
@@ -157697,7 +157697,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408343975,
@@ -157716,7 +157716,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408357026,
@@ -157735,7 +157735,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (136) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408343494,
@@ -157754,7 +157754,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408357774,
@@ -157963,7 +157963,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781786540614,
@@ -157982,7 +157982,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444959499,
@@ -158020,7 +158020,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510109681,
@@ -158039,7 +158039,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780752844299,
@@ -158077,7 +158077,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751572179,
@@ -158153,7 +158153,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781399800020,
@@ -158286,7 +158286,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751541199,
@@ -158552,7 +158552,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444935080,
@@ -158590,7 +158590,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408313107,
@@ -158609,7 +158609,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (88) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751551327,
@@ -158647,7 +158647,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751566239,
@@ -158913,7 +158913,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340960714,
@@ -158951,7 +158951,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408371565,
@@ -158970,7 +158970,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780749954642,
@@ -159084,7 +159084,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349423067,
@@ -159369,7 +159369,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444935165,
@@ -159388,7 +159388,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444959482,
@@ -159483,7 +159483,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340835098,
@@ -159692,7 +159692,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444000993,
@@ -159711,7 +159711,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510110892,
@@ -159730,7 +159730,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781858815725,
@@ -159749,7 +159749,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781858813530,
@@ -159768,7 +159768,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510105485,
@@ -159787,7 +159787,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510105508,
@@ -159806,7 +159806,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510109902,
@@ -159996,7 +159996,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781409199489,
@@ -160167,7 +160167,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781801300230,
@@ -160205,7 +160205,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444924244,
@@ -160224,7 +160224,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781801300049,
@@ -160262,7 +160262,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780979397,
@@ -160319,7 +160319,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781783126316,
@@ -160338,7 +160338,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781783126415,
@@ -160357,7 +160357,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781783125388,
@@ -160376,7 +160376,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349435091,
@@ -160414,7 +160414,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781526361530,
@@ -160433,7 +160433,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780755357772,
@@ -160452,7 +160452,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444955705,
@@ -160528,7 +160528,7 @@
     "Micron": 116,
     "Cover Spec": "C405P2",
     "Packing": "Pack (56) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444967876,
@@ -160547,7 +160547,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444964646,
@@ -160623,7 +160623,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472128492,
@@ -160661,7 +160661,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472146700,
@@ -160737,7 +160737,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356501123,
@@ -160756,7 +160756,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356511276,
@@ -160775,7 +160775,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780749927813,
@@ -160813,7 +160813,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472124647,
@@ -160908,7 +160908,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444964868,
@@ -160927,7 +160927,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781802791853,
@@ -160946,7 +160946,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472264251,
@@ -161003,7 +161003,7 @@
     "Micron": 116,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349727950,
@@ -161079,7 +161079,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780734417749,
@@ -161193,7 +161193,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529397925,
@@ -161231,7 +161231,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781804536674,
@@ -161250,7 +161250,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444973532,
@@ -161345,7 +161345,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600636892,
@@ -161364,7 +161364,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780600636908,
@@ -161383,7 +161383,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529392067,
@@ -161535,7 +161535,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780575090651,
@@ -161668,7 +161668,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781786540201,
@@ -161687,7 +161687,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473621411,
@@ -161782,7 +161782,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781409153733,
@@ -161934,7 +161934,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472153517,
@@ -162105,7 +162105,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781399720434,
@@ -162670,7 +162670,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DHYP01",
     "Gsm": 70,
     "Micron": 110,
     "Cover Spec": "C400P2",
@@ -163150,7 +163150,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781848663558,
@@ -163245,7 +163245,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529405149,
@@ -163473,7 +163473,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781780870533,
@@ -163872,7 +163872,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (80) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751584752,
@@ -163967,7 +163967,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751551389,
@@ -164043,7 +164043,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349013800,
@@ -164119,7 +164119,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780749939045,
@@ -164252,7 +164252,7 @@
     "Micron": 138,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473613690,
@@ -164347,7 +164347,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444796049,
@@ -164499,7 +164499,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (32) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356517384,
@@ -164518,7 +164518,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356505442,
@@ -164613,7 +164613,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (144) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529376043,
@@ -164860,7 +164860,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444789065,
@@ -165140,7 +165140,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DNAV01",
     "Gsm": 80,
     "Micron": 98,
     "Cover Spec": "C400P2",
@@ -165183,7 +165183,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444939347,
@@ -165202,7 +165202,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444956023,
@@ -165259,7 +165259,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340999615,
@@ -165278,7 +165278,7 @@
     "Micron": 114,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444958195,
@@ -165316,7 +165316,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781784290399,
@@ -165468,7 +165468,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781787472563,
@@ -165506,7 +165506,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529407136,
@@ -165715,7 +165715,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473679573,
@@ -165867,7 +165867,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (96) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444787801,
@@ -165924,7 +165924,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529340860,
@@ -166095,7 +166095,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751575415,
@@ -166152,7 +166152,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (96) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408373224,
@@ -166171,7 +166171,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408369425,
@@ -166190,7 +166190,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408373064,
@@ -166209,7 +166209,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (168) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781846161858,
@@ -166228,7 +166228,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (208) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408373101,
@@ -166247,7 +166247,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (152) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408352441,
@@ -166285,7 +166285,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781510111325,
@@ -166304,7 +166304,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751541212,
@@ -166437,7 +166437,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781804536179,
@@ -166475,7 +166475,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781848663787,
@@ -166494,7 +166494,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781405529815,
@@ -166570,7 +166570,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529409512,
@@ -166589,7 +166589,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781529404289,
@@ -167026,7 +167026,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472248510,
@@ -167045,7 +167045,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781843628248,
@@ -167102,7 +167102,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780755349968,
@@ -167140,7 +167140,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (32) (8) Base - MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408368008,
@@ -167159,7 +167159,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (80) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408361375,
@@ -167178,7 +167178,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444939330,
@@ -167197,7 +167197,7 @@
     "Micron": 138,
     "Cover Spec": "C406P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472265937,
@@ -167330,7 +167330,7 @@
     "Micron": 116,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473689947,
@@ -167634,7 +167634,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781786487483,
@@ -167724,7 +167724,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DNAV01",
     "Gsm": 80,
     "Micron": 98,
     "Cover Spec": "C400P2",
@@ -167957,7 +167957,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (24) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781472205353,
@@ -167976,7 +167976,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781841498188,
@@ -167995,7 +167995,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751569667,
@@ -168432,7 +168432,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751542738,
@@ -168660,7 +168660,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408359235,
@@ -168679,7 +168679,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (128) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408369715,
@@ -168698,7 +168698,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (104) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781408332481,
@@ -168755,7 +168755,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781445191898,
@@ -168774,7 +168774,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444960983,
@@ -168793,7 +168793,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (72) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349423609,
@@ -168926,7 +168926,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780749920197,
@@ -169021,7 +169021,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356500317,
@@ -169040,7 +169040,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base. MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780751560268,
@@ -169116,7 +169116,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781804536520,
@@ -169135,7 +169135,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781839352300,
@@ -169154,7 +169154,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (120) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781801301206,
@@ -169173,7 +169173,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (136) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349146317,
@@ -169211,7 +169211,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781526365095,
@@ -169249,7 +169249,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781444935035,
@@ -169591,7 +169591,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780340924884,
@@ -169648,7 +169648,7 @@
     "Micron": 114,
     "Cover Spec": "C406P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781473646704,
@@ -169914,7 +169914,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (112) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349139845,
@@ -169933,7 +169933,7 @@
     "Micron": 116,
     "Cover Spec": "C400P2",
     "Packing": "Pack (32) (8) Base MUST",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9781844082780,
@@ -171377,7 +171377,7 @@
     "Micron": 138,
     "Cover Spec": "C401P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "Yes"
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780349143576,
@@ -176901,7 +176901,7 @@
     "Price UK": "",
     "Price US": "",
     "Price CAN": "",
-    "Paper": "SEE ASR PROGRAM STANDARD RULES TABLE",
+    "Paper": "DNAV01",
     "Gsm": 80,
     "Micron": 98,
     "Cover Spec": "C400P2",
