@@ -150725,7 +150725,8 @@
     "Gsm": 52,
     "Micron": 114,
     "Cover Spec": "C400P2",
-    "Packing": "Pack (24) (8) Base."
+    "Packing": "Pack (24) (8) Base.",
+    "Bleeds": "No"
   },
   {
     "ISBN": 9780356510231,
@@ -150758,5 +150759,37 @@
     "Cover Spec": "C400P2",
     "Packing": "Pack (28) (4) Base.",
     "Bleeds": "No"
+  },
+  {
+    "ISBN": 9781408720981,
+    "Master Order ID": "TGF282",
+    "TITLE": "ASR THE COUNTERFEIT CANDIDATE",
+    "Trim Height": 198,
+    "Trim Width": 126,
+    "Bind Style": "Limp",
+    "Extent": 416,
+    "Cover Spine": 26,
+    "Paper": "DHOL02",
+    "Gsm": 60,
+    "Micron": 116,
+    "Cover Spec": "C400P2",
+    "Packing": "Pack (40) (8) Base.",
+    "Bleeds": "No"
+  },
+  {
+    "ISBN": 9781472143440,
+    "Master Order ID": "TGF288",
+    "TITLE": "ASR MANAGE YOUR MONEY LIKE A F*CKING GROWN-UP",
+    "Trim Height": 234,
+    "Trim Width": 153,
+    "Bind Style": "Limp",
+    "Extent": 256,
+    "Cover Spine": 19,
+    "Paper": "DHOL03",
+    "Gsm": 65,
+    "Micron": 138,
+    "Cover Spec": "C400P2",
+    "Packing": "Pack (36) (4) Base.",
+    "Bleeds": "Yes"
   }
 ]
