@@ -104,6 +104,7 @@ function decodeCoverSpec(code) {
     const upperCode = code.toUpperCase().trim();
     let decodingHTML = '';
     let hasValidDecoding = false;
+    let finishType = null;
 
     // 1st Character - Product Type
     const product = upperCode[0];
@@ -144,10 +145,11 @@ function decodeCoverSpec(code) {
     // 4th Character - Finish Type
     const finish = upperCode[3];
     if (specData.finish[finish]) {
+        finishType = specData.finish[finish];
         decodingHTML += `
             <div class="spec-row">
                 <span class="spec-label">Finish Type:</span>
-                <span class="spec-value">${specData.finish[finish]}</span>
+                <span class="spec-value">${finishType}</span>
             </div>
         `;
         hasValidDecoding = true;
@@ -217,7 +219,10 @@ function decodeCoverSpec(code) {
         }
     }
 
-    return hasValidDecoding ? decodingHTML : null;
+    return {
+        html: hasValidDecoding ? decodingHTML : null,
+        finishType: finishType
+    };
 }
 
 // Initialize event listeners when DOM is loaded
@@ -286,11 +291,37 @@ function displayResults(results) {
                 Please check your ISBN or Master Order ID and try again.
             </div>
         `;
-        document.getElementById('copyResultBtn').disabled = true;
+        document.getElementById('copyResultBtn').disabled = false;
         return;
     }
 
     let html = '<div class="fade-in">';
+    
+    // Add summary at the top for single result
+    if (results.length === 1) {
+        const book = results[0];
+        const coverSpecDecoding = decodeCoverSpec(book['Cover Spec']);
+        const finishType = coverSpecDecoding?.finishType || 'Not specified';
+        
+        html += `
+            <div class="summary-card" style="margin-bottom: 1.5rem;">
+                <h5><i class="bi bi-clipboard-check"></i> Book Specification Summary</h5>
+                <p class="mb-2"><strong>Title:</strong> ${book.TITLE}</p>
+                <p class="mb-2"><strong>ISBN:</strong> ${book.ISBN}</p>
+                <p class="mb-2"><strong>Master Order ID:</strong> ${book['Master Order ID']}</p>
+                <p class="mb-2"><strong>Specifications:</strong> ${book['Trim Height']}×${book['Trim Width']}mm, ${book.Extent} pages, ${book['Bind Style']} binding</p>
+                <p class="mb-0"><strong>Finish Type:</strong> ${finishType}</p>
+            </div>
+        `;
+    } else {
+        // Multiple results summary
+        html += `
+            <div class="summary-card" style="margin-bottom: 1.5rem;">
+                <h5><i class="bi bi-clipboard-check"></i> Search Results Summary</h5>
+                <p class="mb-0">Found <strong>${results.length}</strong> matching book${results.length === 1 ? '' : 's'}</p>
+            </div>
+        `;
+    }
     
     results.forEach((book, index) => {
         try {
@@ -310,6 +341,10 @@ function displayResults(results) {
                     <div class="spec-row">
                         <span class="spec-label">Master Order ID:</span>
                         <span class="spec-value">${book['Master Order ID']}</span>
+                    </div>
+                    <div class="spec-row">
+                        <span class="spec-label">Customer:</span>
+                        <span class="spec-value">${book.Customer || 'Not specified'}</span>
                     </div>
                     <div class="spec-row">
                         <span class="spec-label">Bind Style:</span>
@@ -378,9 +413,9 @@ function displayResults(results) {
                     <span class="spec-value">${book.Packing || 'Not specified'}</span>
                 </div>
                 
-                ${coverSpecDecoding ? `
+                ${coverSpecDecoding?.html ? `
                 <div class="section-header">Cover Specification Decoded</div>
-                ${coverSpecDecoding}
+                ${coverSpecDecoding.html}
                 ` : ''}
             </div>
         `;
@@ -399,25 +434,6 @@ function displayResults(results) {
             `;
         }
     });
-    
-    if (results.length === 1) {
-        html += `
-            <div class="summary-card">
-                <h5><i class="bi bi-clipboard-check"></i> Book Specification Summary</h5>
-                <p class="mb-2"><strong>Title:</strong> ${results[0].TITLE}</p>
-                <p class="mb-2"><strong>ISBN:</strong> ${results[0].ISBN}</p>
-                <p class="mb-2"><strong>Master Order ID:</strong> ${results[0]['Master Order ID']}</p>
-                <p class="mb-0"><strong>Specifications:</strong> ${results[0]['Trim Height']}×${results[0]['Trim Width']}mm, ${results[0].Extent} pages, ${results[0]['Bind Style']} binding</p>
-            </div>
-        `;
-    } else {
-        html += `
-            <div class="summary-card">
-                <h5><i class="bi bi-clipboard-check"></i> Search Results Summary</h5>
-                <p class="mb-0">Found <strong>${results.length}</strong> matching book${results.length === 1 ? '' : 's'}</p>
-            </div>
-        `;
-    }
     
     html += '</div>';
     resultsContainer.innerHTML = html;
@@ -514,6 +530,20 @@ function copyResultToClipboard() {
     let clipboardText = `Book Specification Search Results\n`;
     clipboardText += `=====================================\n`;
     clipboardText += `Search Query: ${query}\n\n`;
+    
+    // Add summary if it's a single result
+    if (bookResults.length === 1) {
+        const summaryLines = summaryCard.textContent.trim().split('\n').filter(line => line.trim());
+        clipboardText += `SUMMARY\n`;
+        clipboardText += `-------\n`;
+        summaryLines.forEach(line => {
+            const trimmed = line.trim();
+            if (trimmed && !trimmed.startsWith('Book Specification Summary')) {
+                clipboardText += `${trimmed}\n`;
+            }
+        });
+        clipboardText += `\n`;
+    }
     
     bookResults.forEach((result, index) => {
         const title = result.querySelector('.book-title').textContent.replace('📖 ', '').trim();
