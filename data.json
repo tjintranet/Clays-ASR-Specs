@@ -160903,5 +160903,39 @@
     "Packing": "Pack (80) (8) Base.",
     "Bleeds": "No",
     "Customer": "LITTLE,BROWN BOOK GROUP S\/RUN"
+  },
+  {
+    "ISBN": 9781399806046,
+    "Master Order ID": "TGH052",
+    "TITLE": "ASR EXPECT TO WIN",
+    "Trim Height": 216,
+    "Trim Width": 135,
+    "Bind Style": "Limp",
+    "Extent": 240,
+    "Cover Spine": 18,
+    "Paper": "DHOL03",
+    "Gsm": 65,
+    "Micron": 138,
+    "Cover Spec": "C400P2",
+    "Packing": "Pack (40) (4) Base.",
+    "Bleeds": "No",
+    "Customer": "JOHN MURRAY"
+  },
+  {
+    "ISBN": 9781399806084,
+    "Master Order ID": "TGH053",
+    "TITLE": "ASR STRATEGIZE TO WIN",
+    "Trim Height": 216,
+    "Trim Width": 135,
+    "Bind Style": "Limp",
+    "Extent": 256,
+    "Cover Spine": 19,
+    "Paper": "DHOL03",
+    "Gsm": 65,
+    "Micron": 138,
+    "Cover Spec": "C400P2",
+    "Packing": "Pack (36) (4) Base.",
+    "Bleeds": "No",
+    "Customer": "JOHN MURRAY"
   }
 ]
