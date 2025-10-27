@@ -161584,5 +161584,22 @@
     "Packing": "Pack (40) (8) Base MUST",
     "Bleeds": "Yes",
     "Customer": "HEADLINE [SHORT RUN]"
+  },
+  {
+    "ISBN": 9781841213361,
+    "Master Order ID": "TGH700",
+    "TITLE": "ASR A SHAKESPEARE STORY ROMEO AND JULIET",
+    "Trim Height": 198,
+    "Trim Width": 129,
+    "Bind Style": "Limp",
+    "Extent": 64,
+    "Cover Spine": 5,
+    "Paper": "DHOL03",
+    "Gsm": 65,
+    "Micron": 138,
+    "Cover Spec": "C401P2",
+    "Packing": "Pack (232) (8) Base.",
+    "Bleeds": "No",
+    "Customer": "HACHETTE CHILDREN'S ASR"
   }
 ]
