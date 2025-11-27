@@ -164698,5 +164698,22 @@
     "Packing": "Pack (40) (8) Base.",
     "Bleeds": "Yes",
     "Customer": "LITTLE,BROWN BOOK GROUP S\/RUN"
+  },
+  {
+    "ISBN": 9781409179818,
+    "Master Order ID": "TGP679",
+    "TITLE": "ASR TOO SCARED TO CRY",
+    "Trim Height": 198,
+    "Trim Width": 129,
+    "Bind Style": "Limp",
+    "Extent": 240,
+    "Cover Spine": 18,
+    "Paper": "DHOL03",
+    "Gsm": 65,
+    "Micron": 138,
+    "Cover Spec": "C400P2",
+    "Packing": "Pack (48) (8) Base.",
+    "Bleeds": "Yes",
+    "Customer": "ORION PUBLISHING GROUP"
   }
 ]
