@@ -42599,7 +42599,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "No",
+    "Bleeds": "Yes",
     "Customer": "HODDER [SHORT RUN]"
   },
   {
@@ -43517,7 +43517,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "No",
+    "Bleeds": "Yes",
     "Customer": "ORION PUBLISHING GROUP"
   },
   {
@@ -52920,7 +52920,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "No",
+    "Bleeds": "Yes",
     "Customer": "HEADLINE [SHORT RUN]"
   },
   {
@@ -55678,7 +55678,7 @@
     "Micron": 138,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "No",
+    "Bleeds": "Yes",
     "Customer": "ORION PUBLISHING GROUP"
   },
   {
@@ -78460,7 +78460,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "No",
+    "Bleeds": "Yes",
     "Customer": "ORION PUBLISHING GROUP"
   },
   {
@@ -79074,7 +79074,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "No",
+    "Bleeds": "Yes",
     "Customer": "HODDER [SHORT RUN]"
   },
   {
@@ -85417,7 +85417,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (40) (8) Base.",
-    "Bleeds": "No",
+    "Bleeds": "Yes",
     "Customer": "HODDER [SHORT RUN]"
   },
   {
@@ -85808,7 +85808,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "No",
+    "Bleeds": "Yes",
     "Customer": "HODDER [SHORT RUN]"
   },
   {
@@ -107406,7 +107406,7 @@
     "Micron": 138,
     "Cover Spec": "C400P2",
     "Packing": "Pack (52) (4) Base.",
-    "Bleeds": "No",
+    "Bleeds": "Yes",
     "Customer": "SHORT BOOKS LTD"
   },
   {
@@ -116480,7 +116480,7 @@
     "Micron": 138,
     "Cover Spec": "C400P2",
     "Packing": "Pack (52) (4) Base.",
-    "Bleeds": "No",
+    "Bleeds": "Yes",
     "Customer": "LITTLE,BROWN BOOK GROUP S\/RUN"
   },
   {
@@ -137608,7 +137608,7 @@
     "Micron": 116,
     "Cover Spec": "C416P2",
     "Packing": "Pack (48) (8) Base.",
-    "Bleeds": "No",
+    "Bleeds": "Yes",
     "Customer": "JOHN MURRAY"
   },
   {
@@ -139252,7 +139252,7 @@
     "Micron": 138,
     "Cover Spec": "C400P2",
     "Packing": "Pack (56) (8) Base.",
-    "Bleeds": "No",
+    "Bleeds": "Yes",
     "Customer": "ORION PUBLISHING GROUP"
   },
   {
@@ -152187,7 +152187,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base. MUST",
-    "Bleeds": "No",
+    "Bleeds": "Yes",
     "Customer": "QUERCUS BOOKS [SHORT RUN]"
   },
   {
@@ -153730,7 +153730,7 @@
     "Micron": 114,
     "Cover Spec": "C400P2",
     "Packing": "Pack (64) (8) Base.",
-    "Bleeds": "No",
+    "Bleeds": "Yes",
     "Customer": "HODDER [SHORT RUN]"
   },
   {
@@ -165481,6 +165481,23 @@
     "Cover Spec": "C400P2",
     "Packing": "Pack (48) (8) Base.",
     "Bleeds": "No",
+    "Customer": "LITTLE,BROWN BOOK GROUP S\/RUN"
+  },
+  {
+    "ISBN": 9780349432830,
+    "Master Order ID": "TGR850",
+    "TITLE": "ASR THE BENEVOLENT SOCIETY OF ILL-MANNERED LADIES",
+    "Trim Height": 198,
+    "Trim Width": 126,
+    "Bind Style": "Limp",
+    "Extent": 464,
+    "Cover Spine": 27,
+    "Paper": "DHOL01",
+    "Gsm": 52,
+    "Micron": 114,
+    "Cover Spec": "C400P2",
+    "Packing": "Pack (40) (8) Base.",
+    "Bleeds": "Yes",
     "Customer": "LITTLE,BROWN BOOK GROUP S\/RUN"
   }
 ]
