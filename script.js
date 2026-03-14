@@ -310,7 +310,8 @@ function displayResults(results) {
                 <p class="mb-2"><strong>ISBN:</strong> ${book.ISBN}</p>
                 <p class="mb-2"><strong>Master Order ID:</strong> ${book['Master Order ID']}</p>
                 <p class="mb-2"><strong>Specifications:</strong> ${book['Trim Height']}×${book['Trim Width']}mm, ${book.Extent} pages, ${book['Bind Style']} binding</p>
-                <p class="mb-0"><strong>Finish Type:</strong> ${finishType}</p>
+                <p class="mb-2"><strong>Finish Type:</strong> ${finishType}</p>
+                <p class="mb-0"><strong>Print Cover on Reverse:</strong> ${book['Print cover on reverse'] || 'Not specified'}</p>
             </div>
         `;
     } else {
@@ -416,6 +417,10 @@ function displayResults(results) {
                 ${coverSpecDecoding?.html ? `
                 <div class="section-header">Cover Specification Decoded</div>
                 ${coverSpecDecoding.html}
+                <div class="spec-row">
+                    <span class="spec-label">Print Cover on Reverse:</span>
+                    <span class="spec-value">${book['Print cover on reverse'] || 'Not specified'}</span>
+                </div>
                 ` : ''}
             </div>
         `;
